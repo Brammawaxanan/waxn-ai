@@ -1,0 +1,47 @@
+review_location,searched_name,matched_place_id,matched_place_name,category,score,match_type
+arugam bay,arugam bay,PLC0000973,Arugam Bay Bridge,attraction,100.0,attraction_fuzzy
+bentota beach,bentota beach,PLC0001264,AZMARA SPA - BENTOTA BEACH HOTEL,activity,100.0,attraction_fuzzy
+jungle beach,jungle beach,PLC0007537,Jungle Beach,accommodation,100.0,exact
+gregory lake,gregory lake,PLC0008499,Lake Gregory Park,attraction,100.0,attraction_fuzzy
+kandy lake,kandy lake,PLC0007778,Kandy Lake Club,activity,100.0,attraction_fuzzy
+ambewela farms,ambewela farms,PLC0000556,Ambewela Farm,shopping,96.2962962962963,general_fuzzy
+dambatenne tea factory,dambatenne tea factory,PLC0003532,Dambatenne Tea Factory,attraction,100.0,exact
+glenloch tea factory,glenloch tea factory,PLC0005446,Glennloch Tea Factory,shopping,97.5609756097561,general_fuzzy
+handunugoda tea estate,handunugoda tea estate,PLC0005926,Handunugoda Tea Estate,attraction,100.0,exact
+new ranweli spice garden,new ranweli spice garden,PLC0010833,New Ranweli Spice Garden 99,attraction,100.0,attraction_fuzzy
+royal botanical gardens,royal botanical gardens,PLC0013470,Royal,activity,100.0,attraction_fuzzy
+victoria park of nuwara eliya,victoria park,PLC0018254,Victoria Park,shopping,100.0,alias_exact
+galle fort,galle fort,PLC0005202,Galle Fort,attraction,100.0,exact
+jaffna fort,jaffna fort,PLC0007214,JAFFNA FORT,accommodation,100.0,exact
+liptons seat,liptons seat,PLC0008946,Lipton's seat,attraction,96.0,attraction_fuzzy
+polonnaruwa,polonnaruwa,PLC0012171,Polonnaruwa Quadrangle,attraction,100.0,attraction_fuzzy
+sigiriya the ancient rock fortress,sigiriya,PLC0015310,Sigiriya and Pidurangala rocks view point,attraction,100.0,attraction_fuzzy
+ariyapala mask museum,ariyapala mask museum,PLC0000895,Ariyapala Masks Museum,attraction,97.67441860465117,attraction_fuzzy
+ceylon tea museum,ceylon tea museum,PLC0002630,Ceylon Tea Museum,attraction,100.0,exact
+colombo national museum,colombo national museum,PLC0010495,National Museum of Colombo,attraction,100.0,attraction_fuzzy
+community tsunami museum,tsunami museum,PLC0003268,Community Tsunami Education Center and Tsunami Museum,attraction,100.0,attraction_fuzzy
+martin wickramasinghe folk museum complex,martin wickramasinghe folk museum complex,PLC0009665,Martin Wickramasinghe Folk Museum Complex,attraction,100.0,exact
+sigiriya museum,sigiriya museum,PLC0015320,Sigiriya Museum,attraction,100.0,exact
+world buddhist museum,international buddhist museum,PLC0007070,International Buddhist Museum,attraction,100.0,alias_exact
+bundala national park,bundala national park,PLC0002084,Bundala National Park,attraction,100.0,exact
+kaudulla national park,kaudulla national park,PLC0007900,Kaudulla National Park Entrance,attraction,100.0,attraction_fuzzy
+kumana national park,kumana national park,PLC0005032,Free Museum of Kumana National Park,attraction,100.0,attraction_fuzzy
+minneriya national park,minneriya national park,PLC0009987,Minneriya National Park,attraction,100.0,exact
+pigeon island national park,pigeon island national park,PLC0012019,Pigeon Island National Park- Marine Park Ticket Office,attraction,100.0,attraction_fuzzy
+pinnawala elephant orphanage,pinnawala elephant orphanage,PLC0012050,Pinnawala Elephant Orphanage,attraction,100.0,exact
+sea turtle farm galle mahamodara,sea turtle farm,PLC0007028,Induruwa sea turtle farm,attraction,100.0,attraction_fuzzy
+wilpattu national park,wilpattu national park,PLC0018972,Wilpattu National Park Office,attraction,100.0,attraction_fuzzy
+diyaluma falls,diyaluma falls,PLC0004046,Diyaluma Falls,attraction,100.0,exact
+lover s leap falls,lover s leap falls,PLC0009121,Lover's Leap,attraction,100.0,attraction_fuzzy
+ramboda waterfall,ramboda falls,PLC0012593,Ramboda Falls,attraction,100.0,alias_exact
+ravana ella falls,ravana ella falls,PLC0012824,Ravana Falls,attraction,100.0,attraction_fuzzy
+st clair s falls,st clair s falls,PLC0016030,St. Clair Falls,attraction,100.0,attraction_fuzzy
+national zoological gardens of sri lanka,national zoological gardens of sri lanka,PLC0010506,National Zoological Gardens,attraction,100.0,attraction_fuzzy
+isurumuniya temple,isurumuniya temple,PLC0016843,temple,attraction,100.0,attraction_fuzzy
+jaya sri maha bodhi,jaya sri maha bodhi,PLC0007312,Jaya Sri Maha Bodhi,attraction,100.0,exact
+mihintale,mihintale,PLC0000861,Archaeological Museum Mihintale,attraction,100.0,attraction_fuzzy
+kelaniya raja maha vihara,kelaniya temple,PLC0016843,temple,attraction,100.0,attraction_fuzzy
+gangaramaya vihara buddhist temple,gangaramaya temple,PLC0016843,temple,attraction,100.0,attraction_fuzzy
+temple of the sacred tooth relic,temple of the tooth,PLC0016843,temple,attraction,100.0,attraction_fuzzy
+dambulla cave temple,dambulla cave temple,PLC0003538,Dambulla Cave Temple,attraction,100.0,exact
+koneswaram temple,koneswaram temple,PLC0016843,temple,attraction,100.0,attraction_fuzzy

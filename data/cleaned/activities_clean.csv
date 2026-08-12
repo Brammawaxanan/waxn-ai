@@ -1,0 +1,189 @@
+activity_id,name,category,address,district,city,latitude,longitude,telephone,email,website,source,source_file,name_key
+ACT000001,AZMARA SPA - CINNAMON LAKESIDE,spa_wellness,"NO.115, 01 FLOOR, SIR CHITHAMPALAM A. GARDNIER MAWATHA, COLOMBO 02",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,azmara spa cinnamon lakeside
+ACT000002,AZMARA SPA - BENTOTA BEACH HOTEL,spa_wellness,"BENTOTA BEACH HOTEL, BENTOTA",Kalutara,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,azmara spa bentota beach hotel
+ACT000003,AZMAARA SPA - CINNAMON LODGE,spa_wellness,"P.O BOX, 02, HABARANA",Polonnaruwa,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,azmaara spa cinnamon lodge
+ACT000004,SPA CEYLON AYURVEDA - COLOMBO 02,spa_wellness,"48D, PARK STREET, COLOMBO 02",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,spa ceylon ayurveda colombo 02
+ACT000005,ANGSANA SPA,spa_wellness,"NO.75 B, GALLE ROAD, COLOMBO 03",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,angsana spa
+ACT000006,COCO SPA - HERITANCE TEA FACTORY,spa_wellness,"KANDAPOLA, NUWARAELIYA",Nuwara Eliya,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,coco spa heritance tea factory
+ACT000007,COCO SPA - HERITANCE AHUNGALLE,spa_wellness,"HERITANCE AHUNGALLE, AHUNGALLE",Kalutara,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,coco spa heritance ahungalle
+ACT000008,DIVIYAN SPA - EARL'S REGENCY,spa_wellness,"EARL'S REGENCY, KANDY",Kandy,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,diviyan spa earl s regency
+ACT000009,COCO SPA - MT. LAVINIA HOTEL,spa_wellness,"100, HOTEL ROAD, MT. LAVINIA",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,coco spa mt lavinia hotel
+ACT000010,COCO SPA - CLUB BENTOTA,spa_wellness,"CLUB BENTOTA, ALUTHGAMA",Kalutara,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,coco spa club bentota
+ACT000011,COCO SPA - ULAGALLA WALAWWA,spa_wellness,"THIRAPPANE, ANURADHAPURA",Anuradhapura,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,coco spa ulagalla walawwa
+ACT000012,SPA CEYLON AYURUVEDA,spa_wellness,"SHOP NO. 11, DUTCH HOSPITAL BUILDING,BANK OF CEYLON MW, COLOMBO 01.",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,spa ceylon ayuruveda
+ACT000013,AZMAARA SPA-CINNAMON BAY,spa_wellness,CINNAMON BEY BERUWELA,Kalutara,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,azmaara spa cinnamon bay
+ACT000014,SPA CEYLON AYURVEDA - HIKKADUWA,spa_wellness,"NO.400, GALLE ROAD, HIKKADUWA",Galle,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,spa ceylon ayurveda hikkaduwa
+ACT000015,JAL HEALTH AND BEAUTY SPA INVESTMENT (PVT) LTD,spa_wellness,"NO.2, REGENCY, GALLE FACE HOTEL, COLOMBO-03",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,jal health and beauty spa investment pvt ltd
+ACT000016,WHITE BY SPA CEYLON,spa_wellness,"NO 14,WARD PLACE,COLOMBO 07",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,white by spa ceylon
+ACT000017,AZMAARA SPA-CHAAYA TRANZ,spa_wellness,HIKKADUWA,Galle,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,azmaara spa chaaya tranz
+ACT000018,COLOMBO COURTYARD(AMBER SPA),spa_wellness,"32,ALFRED HOUSE AVE,COLOMBO 03",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,colombo courtyard amber spa
+ACT000019,COCO SPA-THURYAA RESORT,spa_wellness,"WASKADUWA,KALUTARA",Kalutara,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,coco spa thuryaa resort
+ACT000020,ANANTAYA COCO SPA,spa_wellness,"BANGADENIYA,CHILAW",Puttalam,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,anantaya coco spa
+ACT000021,ARIYAANA,spa_wellness,"WATERS EDGE LIMITED,316,ETHUL KOTTE ROAD,BATTARAMULLA",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,ariyaana
+ACT000022,ARIYANNA SPA-THE BLUE WATER,spa_wellness,"THALPITIYA,WADDUWA",Kalutara,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,ariyanna spa the blue water
+ACT000023,SPA CEYLON AYURVEDA - GALLE FORT,spa_wellness,"NO.54/A,LIGHT HOUSE STREET,GALLE FORT.",Galle,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,spa ceylon ayurveda galle fort
+ACT000024,BAAN THAI,spa_wellness,"NO.490,HAVELOCK ROAD,COLOMBO-05",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,baan thai
+ACT000025,JIVA SPA - VIVANTA BY TAJ BENTOTA,spa_wellness,"VIVANTA BY TAJ,NATIONAL HOLIDAY RESORTS,BENTOTA.",Galle,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,jiva spa vivanta by taj bentota
+ACT000026,AYU SPA,spa_wellness,"NO.40/1,DEWANA RAJASINGHE MAWATHA,PERADENIYA,KANDY.",Kandy,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,ayu spa
+ACT000027,SENSES SPA.,spa_wellness,"NO 48,JANADHIPATHI MAWATHA,COLOMBO 01.",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,senses spa
+ACT000028,NIROGI SPA,spa_wellness,"THE SURF HOTEL,BENTOTA",Galle,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,nirogi spa
+ACT000029,COCO SPA-GRAND KANDYAN,spa_wellness,"NO:89/10,LADY GORDOW DRIVE,KANDY",Kandy,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,coco spa grand kandyan
+ACT000030,H.E.R.HOLISTIC CENTER AND SPA,spa_wellness,"NO.640/62,COLOMBO ROAD,KURANA,NEGOMBO",Gampaha,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,h e r holistic center and spa
+ACT000031,SPA CENVAREE,spa_wellness,"CENTARA CEYSANDS RESORT AND SPA,BENTOTA",Galle,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,spa cenvaree
+ACT000032,INFINITY SPA,spa_wellness,"GOLDI SANDS,ETHUKALA,NEGOMBO.",Gampaha,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,infinity spa
+ACT000033,COCOSPA (PVT) LTD - CITRUS ( WASKADUWA ),spa_wellness,"NO.427. SAMANTHARA ROAD, WASKADUWA, KALUTHRA",Kalutara,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,cocospa pvt ltd citrus waskaduwa
+ACT000034,SPA CEYLON AYURVEDA,spa_wellness,"NO:103/7,GALLE ROAD,COLOMBO 03",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,spa ceylon ayurveda
+ACT000035,AZMAARA SPA - CINNAMON WILD - YALA,spa_wellness,"P.O.BOX 01, YALA, KIRINDA, TISSAMAHARAMA",Hambantota,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,azmaara spa cinnamon wild yala
+ACT000036,AZMAARA SPA-CHAAYA BLU,spa_wellness,"CHAAYA BLU,TRINCOMALEE,SAMPATIVE ROAD,UPPUVELI,TRINCOMALEE.",Trincomalee,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,azmaara spa chaaya blu
+ACT000037,SEA VIEW SPA,spa_wellness,"NO 31/5-3/1, SEA AVENUE, MARINE DRIVE, COLOMBO 03",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,sea view spa
+ACT000038,RENOVA SPA,spa_wellness,"RIU 150, GALLE ROAD, AHUNGALLA",Galle,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,renova spa
+ACT000039,COCO SPA-ANANTAYA PASSIKUDAH,spa_wellness,"COCONUT BOARD ROAD,KALKUDAH,PASSIKUDAH",Batticaloa,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,coco spa anantaya passikudah
+ACT000040,ANANTARA SPA-TANGALLE,spa_wellness,"GOYAMBOKKA ESTATE, TANGALLE.",Hambantota,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,anantara spa tangalle
+ACT000041,SPA CEYLON AYURVEDA-MAHAWELI REACH,spa_wellness,"MAHAWELI REACH HOTEL, NO. 35, P.B.A. WEERAKOON MAWATHA, KANDY",Kandy,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,spa ceylon ayurveda mahaweli reach
+ACT000042,SPA CEYLON -HERITANCE NEGOMBO,spa_wellness,"175, LEWIS PLACE, NEGOMBO",Gampaha,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,spa ceylon heritance negombo
+ACT000043,ANANTARA SPA-KALUTHARA,spa_wellness,"ST.SEBASTIANS'S ROAD, KATUKURUNDA, KALUTHARA",Kalutara,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,anantara spa kaluthara
+ACT000044,ARIYANNA SPA - WATER GARDEN,spa_wellness,"INDIGASWEWA,SIGIRIYA.",Matale,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,ariyanna spa water garden
+ACT000045,INFINITY SPA,spa_wellness,"CLUB WASKADUWA, 211, PANADURA ROAD, WASKADUWA",Kalutara,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,infinity spa
+ACT000046,NIROGI SPA,spa_wellness,THE SAFARI HOTEL TISSAMAHARAMA,Hambantota,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,nirogi spa
+ACT000047,ZEN ISLAND,spa_wellness,"67, MIRIHANA ROAD, NUGEGODA",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,zen island
+ACT000048,"SPA CEYLON AYURVEDA,MOVENPICK HOTEL",spa_wellness,"NO24, DARMAPALA MAWATHA,COLOMBO 03",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,spa ceylon ayurveda movenpick hotel
+ACT000049,JULIANA SPA,spa_wellness,"316, GALLE ROAD, COLOMBO 03",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,juliana spa
+ACT000050,CEYLON HOLISTIC CENTRE,spa_wellness,"NO:220, THIMBIRIGASYAYA ROAD, COLOMBO 05",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,ceylon holistic centre
+ACT000051,SPA OYA,spa_wellness,"LAKE VIEW,ARUNALU,GINIWELLA, KOGGOLA, AHANGAMA",Galle,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,spa oya
+ACT000052,TRIVANA LOTUS SPA (PVT) LTD.,spa_wellness,"SHOP NO. 19,,INDEPENDENCE ARCADE,,COLOMBO 07.",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,trivana lotus spa pvt ltd
+ACT000053,ROYAL SEN SPA AND WELLNESS CENTER,spa_wellness,"47 STATION ROAD,MOUNT LAVINIYA,",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,royal sen spa and wellness center
+ACT000054,SPA CEYLON AYURVEDA-BATTARAMULLA,spa_wellness,"NO. 1020,,PANNIPITIYA ROAD,BATTARAMULLA",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,spa ceylon ayurveda battaramulla
+ACT000055,L OCCITANE,spa_wellness,"NO. 2,,GALLE ROAD,,COLOMBO - 3",Colombo,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,l occitane
+ACT000056,QUEEN BEE SPA,spa_wellness,"NO.38/5,CEMETERY ROAD,KUDAPADUWA,NEGOMBO.",Gampaha,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,queen bee spa
+ACT000057,AVANI SPA,spa_wellness,"NO. 20,,HOTEL ROAD,BENTOTA",Galle,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,avani spa
+ACT000058,AYU SPA,spa_wellness,"EARL'S REEF HOTEL,NO.91/22,MARADANA ROAD,MORAGALLA,BERUWALA",Kalutara,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,ayu spa
+ACT000059,COCOSPA PVT LTD-HERITANCE KANDALAMA,spa_wellness,"COCOSPA-HERITANCE KANDALAMA,P.O.BOX 11,DAMBULLA",Matale,,,,,,,official_tourism,Spa & Wellness Centers.xlsx,cocospa pvt ltd heritance kandalama
+ACT000060,INTERNATIONAL SPICE WALK,spice_garden,"NO. 05, SAPPUWATTHA, PALAPTHWELA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,international spice walk
+ACT000061,PARAMOUNT 200,spice_garden,"NO. 200, KAWDUPELLA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,paramount 200
+ACT000062,HAPPYLAND SPICE GARDEN,spice_garden,"NO.01,DAMBULLA ROAD, KAWATAYAMUNA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,happyland spice garden
+ACT000063,RANWELI SPICE GARDEN,spice_garden,"NO. 99, KAUDUPELELLA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,ranweli spice garden
+ACT000064,KOSGODA SPICE & HERBLE GARDEN,spice_garden,"NO.777,GALLE ROAD, KOSGODA",Galle,,,,,,,official_tourism,Spice Gardens.xlsx,kosgoda spice herble garden
+ACT000065,NEW LUCKY LAND SPICE GARDEN,spice_garden,"KANDY ROAD, HINGULA",Kegalle,,,,,,,official_tourism,Spice Gardens.xlsx,new lucky land spice garden
+ACT000066,NEW ALL SPICE GARDEN,spice_garden,"THUNTOTAWATTA, MOLAGODA, KEGALLE",Kegalle,,,,,,,official_tourism,Spice Gardens.xlsx,new all spice garden
+ACT000067,LUCKGROVE SPICE GARDEN,spice_garden,"NO. 28,PALAPATHWALA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,luckgrove spice garden
+ACT000068,LUCKYLAND-101,spice_garden,"101, PALAPATWELA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,luckyland 101
+ACT000069,ROYAL 100 SPICE AND HERBAL GARDEN,spice_garden,"KAWDUPELELLA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,royal 100 spice and herbal garden
+ACT000070,REGENT SPICE GARDEN,spice_garden,"NO. 06, KIRIGALPOTHA, PALAPATHWALA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,regent spice garden
+ACT000071,SIRILAK SPICE GARDEN,spice_garden,"NO. 50, KAWDUPALALLA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,sirilak spice garden
+ACT000072,SUSANTHA SPICE AND HERBAL GARDEN,spice_garden,"NO. 27, GANETHENNA, HINGULA, MAWANELLA",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,susantha spice and herbal garden
+ACT000073,SAFFARON SPICE GARDEN,spice_garden,"NO. 21, RANDENIYA, HIRIWADUNNA, KEGALLE",Kegalle,,,,,,,official_tourism,Spice Gardens.xlsx,saffaron spice garden
+ACT000074,SURATHURA SPICE & HERBAL GARDEN,spice_garden,"NO. 03, THOTAGAMUWA, PALAPATHWALA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,surathura spice herbal garden
+ACT000075,ZORN SPICE GARDEN,spice_garden,"NO. 50, RANDENIYA, HIRIWADUNNA",Kegalle,,,,,,,official_tourism,Spice Gardens.xlsx,zorn spice garden
+ACT000076,THE ISLAND SPICE GROOVE,spice_garden,"NO. 25, UTUWANKANDA, MAWANELLA",Kegalle,,,,,,,official_tourism,Spice Gardens.xlsx,the island spice groove
+ACT000077,ARUNALU SPICE GARDEN,spice_garden,"NO. 80, MADAWALA ULPATHA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,arunalu spice garden
+ACT000078,DIANA SPICE GARDEN,spice_garden,"NO. 02, KIRIGALPOTHA, PALAPATHWELA",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,diana spice garden
+ACT000079,96 DELIGHT SPICE GARDEN,spice_garden,"12 KADE, 30TH MILE POST, NALANDA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,96 delight spice garden
+ACT000080,NEW PARADISE SPICE GARDEN,spice_garden,"NO. 09, KAWUDUPELLELA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,new paradise spice garden
+ACT000081,KANDYAN SPICE GROVE,spice_garden,"NO. 99, GANETENNA, HINGULA",Kegalle,,,,,,,official_tourism,Spice Gardens.xlsx,kandyan spice grove
+ACT000082,GREEN VALLEY SPICE GARDEN,spice_garden,"NO. 28, ANWARAMA, MAWANELLA",Kegalle,,,,,,,official_tourism,Spice Gardens.xlsx,green valley spice garden
+ACT000083,HIGHLAND SPICE GARDEN,spice_garden,"NO. 25, KOHOLANGWELLA, MADAWELLA, ULPOTHA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,highland spice garden
+ACT000084,NEW NILWALA SPICE GARDEN,spice_garden,"NO. 07, KIRIGALPOTHA, PALAPATHWELA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,new nilwala spice garden
+ACT000085,ISIWARA AYURVEDIC VILLAGE,spice_garden,"NO.15, UPALI WATTA, DEDULGAMUWA, MADAWALA,ULPOTHA, MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,isiwara ayurvedic village
+ACT000086,NEW REGENT SPICE AND HERBAL GARDEN,spice_garden,"NO. 6, UTHUWANKANDA, MAWANELLA.",Kegalle,,,,,,,official_tourism,Spice Gardens.xlsx,new regent spice and herbal garden
+ACT000087,EUPHORIA SPICE AND HERBAL(88),spice_garden,"ARUNALOKA FARM,MADAWALA ULPATHA,MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,euphoria spice and herbal 88
+ACT000088,GREENLAND SPICE GARDEN,spice_garden,"NO 01, ANWARAMA - MAWANELLA",Kegalle,,,,,,,official_tourism,Spice Gardens.xlsx,greenland spice garden
+ACT000089,HERITAGE SPICE AND HERBS GARDEN-NO 11,spice_garden,"NO 130,CENTER LAND,DIMBULAGAMUWA,MADAWALA,ULPOTHA",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,heritage spice and herbs garden no 11
+ACT000090,GRAND REGENT,spice_garden,"NO:6 HABARANA ROAD,INAMALUWA,DAMBULLA",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,grand regent
+ACT000091,NEW LUCKUYANA SPICE AND HERBAL GARDEN,spice_garden,"NO:200,RANDENIYA,HIRIWADUNNA,KEGALLE",Kegalle,,,,,,,official_tourism,Spice Gardens.xlsx,new luckuyana spice and herbal garden
+ACT000092,27 OLD VILLAGE SPICE & HERBLE GARDEN.,spice_garden,"KOHOLANWELA,MADAWALA,ULPOTHA,MATALE.",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,27 old village spice herble garden
+ACT000093,ISIRESA SPICE GARDEN,spice_garden,"273,SIGIRIYA ROAD, MORAGASWEWA,HABARANA",Polonnaruwa,,,,,,,official_tourism,Spice Gardens.xlsx,isiresa spice garden
+ACT000094,RISIWARANA SPICE GARDEN,spice_garden,"59,DAMBULLA ROAD, KAWATAYAMUNA,,MATALE",Matale,,,,,,,official_tourism,Spice Gardens.xlsx,risiwarana spice garden
+ACT000095,WELIGAMA BAY DIVE CENTER,water_sports,"NO 126,KAPPARATHOTA,WELIGAMA",Matara,,,,,,,official_tourism,Water Sports Centers.xlsx,weligama bay dive center
+ACT000096,KALPITIYA DISCOVERY DIVING,water_sports,"ERUMBUKADAL,KALPITIYA ROAD,ETHALAI",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,kalpitiya discovery diving
+ACT000097,DE SILVA WIND RESORT KALPITIYA (PVT) LTD,water_sports,"19A,KALUWAMODARA,ALUTHGAMA",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,de silva wind resort kalpitiya pvt ltd
+ACT000098,DIYAKAWA WATER SPORTS CENTRE,water_sports,"NO 10,RIVER AVENUE,ALUTHGAMA",Kalutara,,,,,,,official_tourism,Water Sports Centers.xlsx,diyakawa water sports centre
+ACT000099,WIND4LOVE KITE CENTER-KALPITIYA,water_sports,"KANDAKULIYA,KUDAWA,KALPITIYA",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,wind4love kite center kalpitiya
+ACT000100,KAPPALADY KITEGARDEN,water_sports,"KAPPALADY,TALAWILA CHURCH 61344,PUTTALAM",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,kappalady kitegarden
+ACT000101,THE RASCALS KITE RESORT,water_sports,"KUDAWA, KANDAKULIYA, KALPITIYA.",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,the rascals kite resort
+ACT000102,KITESURFING LANKA,water_sports,"DUTCH BAY ROAD, KANDAKULIYA, KALPITIYA",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,kitesurfing lanka
+ACT000103,BLUE WATER SPORTS,water_sports,"NO.312, DYKE STREET, TRINCOMALEE.",Trincomalee,,,,,,,official_tourism,Water Sports Centers.xlsx,blue water sports
+ACT000104,DINUDA RESORT (PVT) LTD,water_sports,"PUDUKUDURIPPU,SETHAWADI,KALPITIYA",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,dinuda resort pvt ltd
+ACT000105,SRILANKAKITE,water_sports,"DOLPHIN VIEW ECO LODGE,SETHAWADIYA,61360 KALPITIYA.",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,srilankakite
+ACT000106,FUNKY FRESH,water_sports,"KANDAKULIYA KUDAWA,NORTH 03,KALPITIYA.",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,funky fresh
+ACT000107,KITE CENTER SRI LANKA,water_sports,"22/2 1/1,PERERA MAWATHA,KALUBOWILA,DEHIWALA.",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,kite center sri lanka
+ACT000108,DIVING AND SAILING CENTRE (PVT)LTD,water_sports,"NO:331,KAPPARATHOTA ROAD,WELIGAMA",Matara,,,,,,,official_tourism,Water Sports Centers.xlsx,diving and sailing centre pvt ltd
+ACT000109,THE RAFTERS RETREAT,water_sports,HILLAND GROUP KITHULGALA,Kegalle,,,,,,,official_tourism,Water Sports Centers.xlsx,the rafters retreat
+ACT000110,AQUA SPORTREIZEN,water_sports,"29B,S.DE.S. JAYASINGHE MAWATHA,KALUBOWILA,DEHIWALA.",Kalutara,,,,,,,official_tourism,Water Sports Centers.xlsx,aqua sportreizen
+ACT000111,KITE BEACH VILLAS,water_sports,"SETHAWADI, KUDAWA ROAD, KANDAKULIYA, KALPITIYA",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,kite beach villas
+ACT000112,WHITE WATERS EDGE,water_sports,"39KM POST, KITHULGALA",Kegalle,,,,,,,official_tourism,Water Sports Centers.xlsx,white waters edge
+ACT000113,HOSANNAK AND RRD WATER SPORT CENTRE,water_sports,"KUDAWA,KANDAKULIYA,KALPITIYA",Puttalam,,,,,,,official_tourism,Water Sports Centers.xlsx,hosannak and rrd water sport centre
+ACT000114,POSEIDON NEWROD WATER SPORT,water_sports,UPCYLON GUEST HOUSE MORAGALLA BERUWALA,Kalutara,,,,,,,official_tourism,Water Sports Centers.xlsx,poseidon newrod water sport
+ACT000115,BORDERLANDS LANKA,water_sports,NO. 22 BATAKITTA KITULGALA,Kegalle,,,,,,,official_tourism,Water Sports Centers.xlsx,borderlands lanka
+ACT000116,SUNSET ARALIYA WATER SPORTS,water_sports,"GALLE ROAD , KALUWAMODARA , ALUTHGAMA.",Kalutara,,,,,,,official_tourism,Water Sports Centers.xlsx,sunset araliya water sports
+ACT000117,SRI LANKA DIVING TOURS,water_sports,"159/B PORUTOTA ROAD , PALLANGATHURAI KOCHCHIKADE",Gampaha,,,,,,,official_tourism,Water Sports Centers.xlsx,sri lanka diving tours
+ACT000118,MIRISSA WATERSPORTS (PVT) LTD,water_sports,"GALLE ROAD,MIRISSA (MIRISSA HARBOUR)",Matara,,,,,,,official_tourism,Water Sports Centers.xlsx,mirissa watersports pvt ltd
+ACT000119,AQUA SPORTREIZEN,water_sports,"NO. 07,COCONAT BOARD ROAD,KALKUDHA,PASSIKUDA",Batticaloa,,,,,,,official_tourism,Water Sports Centers.xlsx,aqua sportreizen
+ACT000120,LAKMINI,tourist_shop,"NO. 676,PERADENIYA ROAD,KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,lakmini
+ACT000121,ART LANKA,tourist_shop,"NO. 951, PERADENIYA ROAD,KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,art lanka
+ACT000122,SIFANI JEWELLERS,tourist_shop,"845, PERADENIYA ROAD, KANDY.",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,sifani jewellers
+ACT000123,TONY'S FAIR,tourist_shop,"530, COLOMBO ROAD, KIRIBATHKUMBURA, KANDY.",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,tony s fair
+ACT000124,NISHANTHA WOOD CARVINGS,tourist_shop,"NO. 3, 26TH POST, HATHAMUNA ROAD, POLONNARUWA",Polonnaruwa,,,,,,,official_tourism,Tourist Shops.xlsx,nishantha wood carvings
+ACT000125,HOUSE OF FASHINES GARMENTS,tourist_shop,"NO.28, R.A.D. MEL MAWATHA, COLOMBO 04",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,house of fashines garments
+ACT000126,HEMACHANDRAS,tourist_shop,"NO. 939, PERADENIYA ROAD, KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,hemachandras
+ACT000127,NORITAKE LANKA PORECELAIN,tourist_shop,"NO.580,NEGOMBO ROAD, MABOLE, WATTALA",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,noritake lanka porecelain
+ACT000128,PRASANNA GEM CENTER,tourist_shop,"NO. 919, PERADENIYA ROAD, KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,prasanna gem center
+ACT000129,ASIAN GEMS & JEWELLERY,tourist_shop,"50A,HOTEL ROAD, MT. LAVINIA",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,asian gems jewellery
+ACT000130,SERENE GEM GALLERY,tourist_shop,"NO.11, JOSEPH LANE, COLOMBO 04",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,serene gem gallery
+ACT000131,KUBRA JEWELLERS,tourist_shop,"245, GALLE ROAD, COLOMBO 04",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,kubra jewellers
+ACT000132,LAKMEDURA,tourist_shop,"NO.113, DHARMAPALA MAWATHA, COLOMBO 07",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,lakmedura
+ACT000133,HOUSE OF FASHION GARMENTS,tourist_shop,"NO.28,R.A. DE MEL MAWATHA, COLOMBO 04",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,house of fashion garments
+ACT000134,TIESH BY LAKMINI,tourist_shop,"253, R.A. DE MEL MAWATHA, COLOMBO 03",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,tiesh by lakmini
+ACT000135,SILK & STYLE,tourist_shop,"AIRPORT GARDEN HOTEL, NEGOMBO ROAD, SEEDUWA",Gampaha,,,,,,,official_tourism,Tourist Shops.xlsx,silk style
+ACT000136,BANDULA FERNANDO BATIKS,tourist_shop,"289/5, NOEL MENDIS MAWATHA, PANADURA",Kalutara,,,,,,,official_tourism,Tourist Shops.xlsx,bandula fernando batiks
+ACT000137,DHANAJA GEM MUSEUM,tourist_shop,"590, COLOMBO ROAD, NEW TOWN, RATHNAPURA",Ratnapura,,,,,,,official_tourism,Tourist Shops.xlsx,dhanaja gem museum
+ACT000138,FIOR DRISSAGE JEWELLERS,tourist_shop,"NO.42-D, COLOMBO ROAD, LIYANAGEMULLA, SEEDUWA",Gampaha,,,,,,,official_tourism,Tourist Shops.xlsx,fior drissage jewellers
+ACT000139,PREMADASAS GEMS AND JEWELLERY,tourist_shop,"NO. 75/7, WORD PLACE, COLOMBO-07",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,premadasas gems and jewellery
+ACT000140,PREMADASA GEMS AND JEWELLERY,tourist_shop,"NO. 800, PERADENIYA, KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,premadasa gems and jewellery
+ACT000141,AMITH GEMS,tourist_shop,"644,PERADENIYA ROAD,KANDY.",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,amith gems
+ACT000142,BATIK FAIR BY KOTTEGODA,tourist_shop,"THATAGAMUWA,PALAPATHWELA,MATALE",Matale,,,,,,,official_tourism,Tourist Shops.xlsx,batik fair by kottegoda
+ACT000143,BATIK LAND,tourist_shop,"63,KANDY ROAD,GANETENNA,HINGULA,MAWANELLA",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,batik land
+ACT000144,DIAMOND DREAMS,tourist_shop,"NO. 27, JOSEPH LANE ,COLOMBO 04.",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,diamond dreams
+ACT000145,A.M.A.CAREEM JEWELLERS,tourist_shop,"BROWNS BEACH HOTEL,NEGOMBO",Gampaha,,,,,,,official_tourism,Tourist Shops.xlsx,a m a careem jewellers
+ACT000146,ISINI GEM JEWELLERS,tourist_shop,"NO.41, RAJAPIHILLA MAWATHA, KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,isini gem jewellers
+ACT000147,DERICK GEMS AND JEWELLERY,tourist_shop,"NO. 388,COLOMBO ROAD,DADALLA,GALLE",Galle,,,,,,,official_tourism,Tourist Shops.xlsx,derick gems and jewellery
+ACT000148,GREEN GARDEN AYURVEDIC CENTER,tourist_shop,"NO. 189, BEACH ROAD, PALAGATURE, KOCHCHIKADE",Gampaha,,,,,,,official_tourism,Tourist Shops.xlsx,green garden ayurvedic center
+ACT000149,KREATIONS,tourist_shop,KREATIONS,Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,kreations
+ACT000150,LAKSHILA,tourist_shop,"NO.676A,PERADENIYA ROAD, KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,lakshila
+ACT000151,ERIC SURIYASENA THE COLLECTION,tourist_shop,"DAMBULLA ROAD, PALAPATHWALA, MATALE",Matale,,,,,,,official_tourism,Tourist Shops.xlsx,eric suriyasena the collection
+ACT000152,GUNATHILAKA BATIKS,tourist_shop,"NO. 173/A, RAJAPIHILLA MAWATHA,KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,gunathilaka batiks
+ACT000153,NORITAKE LANKA PORCELAIN,tourist_shop,"P.O. BOX 30, MATALE",Matale,,,,,,,official_tourism,Tourist Shops.xlsx,noritake lanka porcelain
+ACT000154,LANKA CERAMIC,tourist_shop,"NO.696,GALLE ROAD, COLOMBO-03",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,lanka ceramic
+ACT000155,OAK RAY SILK GALLERY,tourist_shop,"NO. 09, DEVENI RAJASINGHE MAWATHA, GATAMBE, KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,oak ray silk gallery
+ACT000156,OAK-RAY WOOD CARVING,tourist_shop,"NO. 09, DEVANI RAJASINGHE MAWATHA,GETAMBE,KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,oak ray wood carving
+ACT000157,PREMADASA SOUVENIRS,tourist_shop,"NO. 560,GALLE ROAD,COLOMBO 03",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,premadasa souvenirs
+ACT000158,WIJAYA GEMS,tourist_shop,"NO. 730, GALLE ROAD, COLOMBO 03",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,wijaya gems
+ACT000159,LANQUEENS GEMS &JEWELERS,tourist_shop,"T LANE, KALUWAMODERA, ALUTHGAMA",Kalutara,,,,,,,official_tourism,Tourist Shops.xlsx,lanqueens gems jewelers
+ACT000160,ZAM HANDICRAFT,tourist_shop,"NO. 81, GALLE ROAD, COLOMBO 04",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,zam handicraft
+ACT000161,ZAM HANDICRAFT,tourist_shop,"NO. 548, PERADENIYA ROAD, KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,zam handicraft
+ACT000162,SILK GARDENS,tourist_shop,"NO. 935, FIRST FLOOR, PERADENIYA ROAD, KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,silk gardens
+ACT000163,BATIK COLLECTION,tourist_shop,"NO.173 A1/1 (NEW # 171/1/1 RAJAPIHILLA MW,KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,batik collection
+ACT000164,CEYGEMS INTERNATIIONAL -KANDY,tourist_shop,"NO.673, PERADENIYA ROAD, KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,ceygems internatiional kandy
+ACT000165,UNIXINGS,tourist_shop,"208,R.A DE MEL MAWATHA,COLOMBO 03",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,unixings
+ACT000166,ISLAND BATIKS,tourist_shop,"NO. 79/5, TRINCOMALE STREET, MATALE",Matale,,,,,,,official_tourism,Tourist Shops.xlsx,island batiks
+ACT000167,CITY OF GEM MUSEUM,tourist_shop,"NO. 17 B, GALLE ROAD, MOLLIGODA, WADDUWA",Kalutara,,,,,,,official_tourism,Tourist Shops.xlsx,city of gem museum
+ACT000168,HEMACHANDRA SILKS,tourist_shop,"935,PERADENIYA ROAD,KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,hemachandra silks
+ACT000169,LAKVIDU GEM AND JEWELLERY AND UNIQUE ART GALLERY,tourist_shop,"NO 18,COLOMBO STREET,KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,lakvidu gem and jewellery and unique art gallery
+ACT000170,HENRY BATIKS,tourist_shop,"SIGIRIYA ROAD, INAMALUWA, DAMBULLA",Matale,,,,,,,official_tourism,Tourist Shops.xlsx,henry batiks
+ACT000171,GEMS CHAMBER-GEM BANK,tourist_shop,N.06 EHELEPOLA-GM BANK,Ratnapura,,,,,,,official_tourism,Tourist Shops.xlsx,gems chamber gem bank
+ACT000172,THE EXOTIC,tourist_shop,"45,5TH LANE,COLOMBO 03",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,the exotic
+ACT000173,TAPROSILK,tourist_shop,"N0.658 /A PERADENIYA ROAD, KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,taprosilk
+ACT000174,HOUSE OF FASHION MEGA MALL,tourist_shop,"NO 101,D.S SENANAYAKE MW,COLOMBO 08",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,house of fashion mega mall
+ACT000175,RATNAPURA GEM BUREAU,tourist_shop,"POTHGUL VIHARA MAWATHA,RATNAPURA",Ratnapura,,,,,,,official_tourism,Tourist Shops.xlsx,ratnapura gem bureau
+ACT000176,LAKRUKA,tourist_shop,"KANDY TRINCOMALEE ROAD,ARANGALA,NAULA",Badulla,,,,,,,official_tourism,Tourist Shops.xlsx,lakruka
+ACT000177,HANDUNI'S GEMS & JEWELLERY EXPORT,tourist_shop,"NO 312/5/2,WARATENNE,HALLOLUWA,KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,handuni s gems jewellery export
+ACT000178,OAK RAY GEM & JEWELLERY,tourist_shop,"22D,DEVENI RAJASINGHE MAWATHA GATAMBE,KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,oak ray gem jewellery
+ACT000179,KHIARDS,tourist_shop,"TAJ SAMUDRA HOTEL 25,GALLE FACE, COLOMBO 03",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,khiards
+ACT000180,E.W.BALASURIYA & CO.,tourist_shop,"7/2,SANGAMITTA MAWATHA,KANDY",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,e w balasuriya co
+ACT000181,NATURAL GEMS & GEMOLOGICAL MUSEUM,tourist_shop,"NO.530,COLOMBO ROAD,KIRIBATHKUMBURA,KANDY.",Kandy,,,,,,,official_tourism,Tourist Shops.xlsx,natural gems gemological museum
+ACT000182,OAK-RAY CREATIONS BATIKS - MATALE,tourist_shop,"NO. 17, DAMBULLA ROAD, KAUDUPELALLA, MATALE",Matale,,,,,,,official_tourism,Tourist Shops.xlsx,oak ray creations batiks matale
+ACT000183,RU SHI GEMS,tourist_shop,"NO149,GALLE ROAD,BAMBALAPITIYA,COLOMBO 04.",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,ru shi gems
+ACT000184,BAZAAR AND COMPANY,tourist_shop,"INSIDE RIV SRI LANKA RESORT, GALLE ROAD, AHUNGALLA",Galle,,,,,,,official_tourism,Tourist Shops.xlsx,bazaar and company
+ACT000185,CEYLON SAPPHIRE COLLECTION,tourist_shop,"NO. 149, COLOMBO ROAD, KALUWELLA, GALLE",Galle,,,,,,,official_tourism,Tourist Shops.xlsx,ceylon sapphire collection
+ACT000186,PRIME TEA CEYLON,tourist_shop,"523/4B, SIRIKOTHA LANE, COLOMBO 03",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,prime tea ceylon
+ACT000187,THE SILVER JEWELLERY SHOP,tourist_shop,"118/7,JINADASA NIYATHAPALA MAWATHA, NARAHENPITA , COLOMBO 05.",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,the silver jewellery shop
+ACT000188,FINE GEM AND JEWELLERY,tourist_shop,"298B,R.A.DE MEL MAWATHA,COLOMBO 03",Colombo,,,,,,,official_tourism,Tourist Shops.xlsx,fine gem and jewellery

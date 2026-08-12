@@ -1,0 +1,7 @@
+dataset,rows,file
+poi_clean,18360,data/cleaned/poi_clean.csv
+accommodations_clean,2125,data/cleaned/accommodations_clean.csv
+restaurants_clean,472,data/cleaned/restaurants_clean.csv
+activities_clean,188,data/cleaned/activities_clean.csv
+reviews_clean,16152,data/cleaned/reviews_clean.csv
+waxn_places,19275,data/processed/waxn_places.csv

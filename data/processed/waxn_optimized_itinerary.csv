@@ -1,0 +1,16 @@
+day,time,type,place_id,name,latitude,longitude,distance_from_previous_km
+1,13:30,food,PLC0004503,Ella Rock Pot,6.8726205,81.0492165,0.82
+1,15:30,attraction,PLC0012824,Ravana Falls,6.8411694,81.0550963,3.56
+1,09:00,attraction,PLC0008946,Lipton's seat,6.7806643,81.0155075,8.02
+1,11:30,attraction,PLC0004046,Diyaluma Falls,6.7332925,81.0314914,5.56
+1,19:00,hotel,PLC0005516,Golden Rock Guest Inn,6.8718338,81.0565837,15.65
+2,13:30,food,PLC0013268,Rocky Ella,6.8743106,81.0479256,0.99
+2,09:00,attraction,PLC0018293,viewpoint rock,6.8591283,81.0499207,1.7
+2,15:30,attraction,PLC0004301,Eagle Rock,6.7625011,80.9806723,13.19
+2,11:30,attraction,PLC0018291,Viewpoint railway trek,6.777886,80.9165403,7.29
+2,19:00,hotel,PLC0005516,Golden Rock Guest Inn,6.8718338,81.0565837,18.66
+3,11:30,attraction,PLC0004509,Ella Spice Garden,6.8740364,81.0494507,0.82
+3,13:30,food,PLC0004504,Ella Rock Rest Point,6.8611944000000005,81.04328258275,1.58
+3,15:30,attraction,PLC0004494,Ella Organic Tea Garden,6.8573499,81.0334561,1.17
+3,09:00,attraction,PLC0003532,Dambatenne Tea Factory,6.78336345,81.00332282501563,8.87
+3,19:00,hotel,PLC0005516,Golden Rock Guest Inn,6.8718338,81.0565837,11.46

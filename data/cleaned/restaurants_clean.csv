@@ -1,0 +1,473 @@
+restaurant_id,name,address,district,city,grade,cuisine,latitude,longitude,telephone,email,website,source,source_file,name_key
+RES000001,BAVARIAN BARN RESTAURANT,"NO. 11, GALLE FACE COURT 02 COLOMBO",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,bavarian barn restaurant
+RES000002,LORDS RESTAURANT,80B PORUTHOTA ROAD ETTHUKALA NEGOMBO,Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,lords restaurant
+RES000003,NIHONBASHI RESTAURANT,"NO 11, GALLE FACE TERRACE, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,nihonbashi restaurant
+RES000004,FREE WIND RESTAURANT & BAR,"NO 1285, KANDY ROAD, PALAIYOOTHU, TRINCO MALEE",Trincomalee,,A,,,,,,,official_tourism,Restaurants.xlsx,free wind restaurant bar
+RES000005,EDWIN RESTAURANT,"204, LEWIS PLACE, NEGOMBO",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,edwin restaurant
+RES000006,DAKSHINA RESTAURANT,"154/A, KANDY RD, DALUGAMA,KELANIYA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,dakshina restaurant
+RES000007,KUMU KUMA CHINESE RESTAURANT,"278/2, HIGHLEVEL RD, MAHALWARAWA, PANNIPITIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,kumu kuma chinese restaurant
+RES000008,HANSAGIRI RESTAURANT,"192 1/1, BODHIRAJA MAWATHA, COLOMBO 11",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,hansagiri restaurant
+RES000009,JAYALATH INN RESTAURANT,"269, WELIGAMPITIYA JA-ELA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,jayalath inn restaurant
+RES000010,GREAT WALL RESTAURANTS,"N0.03, EDWARD LANE COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,great wall restaurants
+RES000011,EXCEL RESTAURANTS,"338, T.B. JAYAH MAWATHA, COLOMBO 10",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,excel restaurants
+RES000012,PUBS AND PLACES- KANDY,"N0.30, GEORGE E.DE SILVA MAWATHA, KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,pubs and places kandy
+RES000013,KANDOORI RESTAURANT (BERUWALA),"428, GALLE ROAD, HETTIMULLA BERUWALA",Kalutara,,A,,,,,,,official_tourism,Restaurants.xlsx,kandoori restaurant beruwala
+RES000014,SENANI RESTAURANT,"NO 30,RAJAPIHILLA MAWATHA, KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,senani restaurant
+RES000015,JANAHITHA RESTAURANT,"107/1 MAKOLA SOUTH, MAKOLA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,janahitha restaurant
+RES000016,FLAG & WHISTLE RESTAURANT & PUB,"NO.256,SETHMIL BUILDING,5TH FLOOR,SRIMATH RAMANATHAN MAWATHA,COLOMBO 15.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,flag whistle restaurant pub
+RES000017,CHANVAL RESTAURANT (MAHARAGAMA),"NO. 5/2 5/3 SRI DEWANANDA ROAD,NAWINNA,MAHARAGAMA.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,chanval restaurant maharagama
+RES000018,PUBS AND PLACES - YATINUWARA,"60/1,YATINUWARA WEEDIYA,KANDY",Kandy,,B,,,,,,,official_tourism,Restaurants.xlsx,pubs and places yatinuwara
+RES000019,ISHARA RESTAURANT,"NO. 278/4, RATHMALDENIYA ROAD PELANWATTA, PANNIPITIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,ishara restaurant
+RES000020,SAYURA RESTAURANT,"BEHIND THE ECONOMICAL CENTER ALUTHPARA, DAMBULLA",Matale,,A,,,,,,,official_tourism,Restaurants.xlsx,sayura restaurant
+RES000021,RANWELI RESTAURANT,"NO.99, KAUDPELELLA, MATALE",Matale,,A,,,,,,,official_tourism,Restaurants.xlsx,ranweli restaurant
+RES000022,SILVER RAY RESTAURANT,"NO 18,DIPPITIGALA, LELLOPITIYA",Ratnapura,,A,,,,,,,official_tourism,Restaurants.xlsx,silver ray restaurant
+RES000023,RAJA BOJUN,"LIBERTY ARCADE,NO.282,R.A. DE MEL MW,COLOMBO 03.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,raja bojun
+RES000024,MINTAGE RESTAURANT & BAR,"NO154, KINYSEY ROAD, COLOMBO07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,mintage restaurant bar
+RES000025,ELEPHANT PARK RESTAURANT,"PINNAWALA, RAMBUKKANA",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,elephant park restaurant
+RES000026,PUBS AND PLACES (BENTOTA),"NO.357,GALLE ROAD,WARAHENA BENTOTA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,pubs and places bentota
+RES000027,REFRESH RESTAURANT,"NO.384, GALLE ROAD HIKKADUWA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,refresh restaurant
+RES000028,GOLDEN GRILL,"NO.45, NATIONAL HOLIDAY RESORT, BENTOTA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,golden grill
+RES000029,SAMAL RESTAURANT,"NO.95,MALAY STREET, COLOMBO 02",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,samal restaurant
+RES000030,SIAM HOUSE THAI RESTAURANT,"NO.17, MELBOURNE AVENUE COLOMBO 04",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,siam house thai restaurant
+RES000031,RAMANKA RESTAURANT,"156/3/F , NEW KANDY ROAD, BANDARAWATTA , BIYAGAMA.",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,ramanka restaurant
+RES000032,PINNALANDA RESTAURANT,"PINNAWALA , RAMBUKKANA",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,pinnalanda restaurant
+RES000033,MOUNT GRILL,"221, GALLE ROAD MOUNT LAVINIA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,mount grill
+RES000034,WESTERN RESTAURANT,"NO. 668, PONNALAI ROAD ODDUMADAM JAFFNA",Jaffna,,B,,,,,,,official_tourism,Restaurants.xlsx,western restaurant
+RES000035,HAVI RESTAURANT,"NO.186, BORELLA ROAD, PANNIPITIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,havi restaurant
+RES000036,ODEL,NO.02 WARD PLACE COLOMBO 07.,Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,odel
+RES000037,ABBAS RESTAURANT,"WAULAGODA, HIKKADUWA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,abbas restaurant
+RES000038,AGLO RESTAURANT,"NO.271, KOHALAWAILA ROAD WELIKETIYA KELANIYA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,aglo restaurant
+RES000039,THE BAY LEAF,"SHOP #5 OLD DUTCH HOSPITAL COMPLEX ECHELON SQUARE,COLOMBO-01",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,the bay leaf
+RES000040,HELADIV TEA CLUB ( HTC ),"NO.08, DUTCH HOSPITAL BUILDING BANK OF CEYLON MW, PETTAH COLOMBO 01",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,heladiv tea club htc
+RES000041,APEX RESTAURANT,"1173, MARADANA ROAD, COLOMBO 08",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,apex restaurant
+RES000042,AUSTASIA SPORTS,"NO.290U, WEERASEKERA MAWATHA, THALAWATHUGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,austasia sports
+RES000043,INN BY THE LAKE,"N0.36, DALADA VEEDIYA, KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,inn by the lake
+RES000044,BAKELAND RESTAURANT,"335, DANDAGAMUWA , KULIYAPITIYA",Kurunegala,,A,,,,,,,official_tourism,Restaurants.xlsx,bakeland restaurant
+RES000045,BAKEPS RESTAURANT,"NO.69 , NARAHENPITA ROAD NAWALA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,bakeps restaurant
+RES000046,STEAM BOAT (NAWALA),"NO.14, NARAHENPITA ROAD, NAWALA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,steam boat nawala
+RES000047,BAMBOO GARDEN RESTAURANT,"NO.29A , ANAGARIKA DHARMAPALA MAWATHA , KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,bamboo garden restaurant
+RES000048,BAREFOOT GARDEN CAFE,"NO.706. GALLE ROAD , COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,barefoot garden cafe
+RES000049,BASE ENTERTAINMENT,"NO. 340 , GALLE ROAD COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,base entertainment
+RES000050,BASE VIP LOUNGE,"NO. 24, 17TH LANE , COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,base vip lounge
+RES000051,BELLWAY RESTAURANT,"NO. 695 , KANDY ROAD, KELANIYA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,bellway restaurant
+RES000052,SUNLIGHT GARDEN SEAFOOD RESTAURANT,"NO. 21 , ABDUL GAFOOR MAWATHA COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sunlight garden seafood restaurant
+RES000053,MOTHER'S KITCHEN,"NO.284, KATUGASTOTA RD, KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,mother s kitchen
+RES000054,ROSHAN RESTAURANT,"NO.138, SIR P. RAMANATHAN RD, CHUNNAKAM",Jaffna,,A,,,,,,,official_tourism,Restaurants.xlsx,roshan restaurant
+RES000055,BIJOU RESTAURANT,"NO.44, ETTUKALA, NEGOMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,bijou restaurant
+RES000056,BUDDES BEACH RESTAURANT,"NO.428, GALLE ROAD WEWALA HIKKADUWA",Galle,,B,,,,,,,official_tourism,Restaurants.xlsx,buddes beach restaurant
+RES000057,CASAMARA CHINESE RESTAURANT,"NO.87, HIGHLEVAL RD, KOTTAWA PANNIPITIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,casamara chinese restaurant
+RES000058,BLUE SKY RESTAURANT,"NO.168,NEW KANDY ROAD,KOTHALAWALA,KADUWELA.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,blue sky restaurant
+RES000059,CHESA SWISS RESTAURENT,"NO.03, DEAL PLACE A , COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,chesa swiss restaurent
+RES000060,CLOVER GRANGE,"NO. 95, KING STREET, MATALE 21000",Matale,,A,,,,,,,official_tourism,Restaurants.xlsx,clover grange
+RES000061,SRI LAND TRADING RESTAURANT,"NO. 16, RAGALA RD, RIKILLAGASKADA",Nuwara Eliya,,A,,,,,,,official_tourism,Restaurants.xlsx,sri land trading restaurant
+RES000062,CHOPSTICKS RESTAURANT,"NO.317/1, NAWALA RD, NAWALA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,chopsticks restaurant
+RES000063,D.S.C. RESTAURANT,"NO. 206, HIGH LEVEL ROAD, AVISSAWELLA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,d s c restaurant
+RES000064,COUNTRY CLUB RESTAURANT,"NO 08, BANDARANAYAKE MW, KATUBEDDA, MORATUWA",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,country club restaurant
+RES000065,CRISTAL HILL RESTAURANT,"NO.231,DAMBULLA ROAD,KIRIGALPOTHTHA,PALAPATHWALA,MATALE.",Matale,,A,,,,,,,official_tourism,Restaurants.xlsx,cristal hill restaurant
+RES000066,DANIELS PUB & RESTAURANT,"NO.46, GALLE RD, AHUNGALLA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,daniels pub restaurant
+RES000067,LEMON GRASS - (KOTTE),"NO. 0939 E.W PERERA MAWATHA, KOTTE ROAD,ETULE KOTTE",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,lemon grass kotte
+RES000068,TASTEES BANANA,"39B PORUTHOTA ROAD, ETHTHUKALA, NEGOMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,tastees banana
+RES000069,PANORAMA RESTAURANT (BERUWALA),"MARADANA ROAD, MORAGALLA, BERUWALA.",Kalutara,,A,,,,,,,official_tourism,Restaurants.xlsx,panorama restaurant beruwala
+RES000070,168 SEAFOOD PALACE,"NO. 08, SEAVIEW AVENUE, COLOMBO 03",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,168 seafood palace
+RES000071,AIDA RESTAURANT & BAR,"NO. 192, GALLE ROAD, BENTOTA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,aida restaurant bar
+RES000072,GINZA HOHSEN JAPANESE RESTAURANT,"GINZA HOHSEN JAPANESE RESTAURANT,HILTON COLOMBO.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,ginza hohsen japanese restaurant
+RES000073,AMAL VILLA RESTAURANT,"ROBOLGODA, BENTOTA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,amal villa restaurant
+RES000074,KASSAPAS DREAM,"KASSAPAS DREAM,7/2,SANGAMITTA MAWATHA,KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,kassapas dream
+RES000075,ALT SAABRUCKEN GERMAN RESTAURANT,"PORUTOTA ROAD, ETTUKALA, NEGOMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,alt saabrucken german restaurant
+RES000076,AMRITH INDIAN RESTAURANT,"NO. 147, VAJIRA ROAD, COLOMBO 05",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,amrith indian restaurant
+RES000077,AMIRU RESTAURANT,"NO.37/13, PUBUDU MAWATHA, MATTEGODA, POLGASOVITA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,amiru restaurant
+RES000078,ARRIRANG RESTURANT,"NO.16,ABDUL GAFFOOR MAWATHA,COLOMBO",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,arrirang resturant
+RES000079,BIRDS GARDEN RESTAURANT,"NO. 50, KAUDUPELELLA, MATALE",Matale,,A,,,,,,,official_tourism,Restaurants.xlsx,birds garden restaurant
+RES000080,ASTON RESTURANT & BAR,"69/1B,DAM STREET COLOMBO 12",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,aston resturant bar
+RES000081,CAFE DE ARTIST,"NO. 31, HORTON PLACE, COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,cafe de artist
+RES000082,CAFE JAPAN RESTAURANT,"NO. 07, 10TH LANE, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,cafe japan restaurant
+RES000083,PUBS AND PLACES - ALUTHGAMA,"NO. 09, DOUGLAS GUNAWARDENA MAWATHA, ALUTHGAMA",Kalutara,,A,,,,,,,official_tourism,Restaurants.xlsx,pubs and places aluthgama
+RES000084,CRICKET CLUB CAFE,"NO.12,ERNEST DE SILVE,MAWATHA.COLOMBO 07.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,cricket club cafe
+RES000085,CEY-NOR ORIENAT SEA FOOD RESTAURANT,"NO. 335/A, D.R. WIJEWARDENA MAWATHA, COLOMBO 10",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,cey nor orienat sea food restaurant
+RES000086,CUBBYS RESTAURANT,"CUBBYS RESTAURANT,85,WARAGODA ROAD,KELANIYA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,cubbys restaurant
+RES000087,PUBS AND PLACES (MORATUWA),"NO. 16, LADY DE SOYSA DRIVEUYANA MORATUWA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,pubs and places moratuwa
+RES000088,VISRO RESTAURANT AND BAR,"362,HANWELLA ROAD,URAPOLA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,visro restaurant and bar
+RES000089,DESHANI EASTERN & CHINESE RESTAURANT,"NO. 376, OLD ROAD, KOTTAWA, PANNIPITIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,deshani eastern chinese restaurant
+RES000090,SUGAR BISTRO & WINE BAR,"NO. 77, GALLE ROAD, COLOMBO 03.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sugar bistro wine bar
+RES000091,DANSCO RESTAURANT,"NO. 20/5, GALLE ROAD, GOLUMADAMA JUNCTION, MORATUWA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,dansco restaurant
+RES000092,CURRY LEAVES RESTAURANT,"NO.68.W.A.SILVA MW,COLOMBO 06",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,curry leaves restaurant
+RES000093,DIAMOND REST,"NO. 315, COLOMBO ROAD, WERALUPA, RATNAPURA",Ratnapura,,A,,,,,,,official_tourism,Restaurants.xlsx,diamond rest
+RES000094,DIANA CHINESE FOOD CENTRE,"NO. 23B1/1, 23B2/1 DENIYAYA ROAD, AKURESSA",Matara,,A,,,,,,,official_tourism,Restaurants.xlsx,diana chinese food centre
+RES000095,DIMASHA RESTAURANT,"NO. 9-C, BANDDEGAMA ROAD, HIKKADUWA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,dimasha restaurant
+RES000096,PEACH VALLEY DOUBLE HAPPY CHINESE RESTAURANT,"NO. 27 FLOWER ROAD,COLOMBO 07.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,peach valley double happy chinese restaurant
+RES000097,GRAND HOLIDAY RESORT,"VENDERLAND MAWTHA,KOLINJADIYA",Puttalam,,A,,,,,,,official_tourism,Restaurants.xlsx,grand holiday resort
+RES000098,DISLIN ITALIAN RESTAURANT,"NO. 571, GALLE ROAD, RAWATHAWATTA, MORATUWA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,dislin italian restaurant
+RES000099,GREEN BAMBOO RESTURANT,"NO19/4,DE ABREW ROAD,KALUTHARA NORTH",Kalutara,,B,,,,,,,official_tourism,Restaurants.xlsx,green bamboo resturant
+RES000100,DINESH RESTAURANT,"HANHAMUNA, MASPOTHA, KURUNEGALA",Kurunegala,,A,,,,,,,official_tourism,Restaurants.xlsx,dinesh restaurant
+RES000101,GREEN CHARIOT RESTAURANT,"NO 60,NAWALAPITIYA ROAD,GAMPOLA",Kandy,,B,,,,,,,official_tourism,Restaurants.xlsx,green chariot restaurant
+RES000102,SUEHIRO LANKA RESTAURANT,"AKKARAWATTA, NABETA, MELSIRIPURA, KURUNEGALA",Kurunegala,,A,,,,,,,official_tourism,Restaurants.xlsx,suehiro lanka restaurant
+RES000103,E.T.S. FOODS,"NO. 21, DE VOS AVENUE, COLOMBO 04",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,e t s foods
+RES000104,EAT ME CHINESEE RESTAURANT,"162,PERADENIYA ROAD,KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,eat me chinesee restaurant
+RES000105,GREEN GARDEN CHAINSSE RESTAURANT,"NO.1491 N,WEERAGALA BUILDING,KOTTAWA ROAD,PANNIPITIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,green garden chainsse restaurant
+RES000106,GREEN VIEW CHAINESE RESTAURANT,"ELLA JUNCTION,HAPUTHALE ROAD,WELLAWAYA",Moneragala,,A,,,,,,,official_tourism,Restaurants.xlsx,green view chainese restaurant
+RES000107,GOODIES KITCHEN,"151/C,TEMPLERS RAOD,MOUNT LAVINIA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,goodies kitchen
+RES000108,FARM HOUSE RESTAURANT,"NO.341,GALLE ROAD,HIKKADUWA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,farm house restaurant
+RES000109,FLORA REGION RESTAURANT,"NO.1/71,MONARAGALA ROAD,WELLAWAYA",Moneragala,,A,,,,,,,official_tourism,Restaurants.xlsx,flora region restaurant
+RES000110,GIHANS CHINESEE RESTAURANT,"656 A,HIGH LEVAL RAOD,GANGODAVILA,NUGEGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,gihans chinesee restaurant
+RES000111,FLOWER DRUM RESTAURANT,"418,PANNIPITIYA ROAD,PELAWATTE,BATTARAMULLA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,flower drum restaurant
+RES000112,FLOWER CITY CHINESE GUEST HOUSE AND RESTAURANT,"NO.26,T.G JAWARDHANA MW COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,flower city chinese guest house and restaurant
+RES000113,FLOWER DRUM,"NO.26,THURSTON ROAD,COLOMBO03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,flower drum
+RES000114,MANGALA RECEPTION HALL & CHINESE RESTAURANT,"NO. 329, ""MUNASINGHE MAHAL"", MAKOLA ROAD, KIRIBATHGODA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,mangala reception hall chinese restaurant
+RES000115,GOLDEN MAID CHINESE RESTAURANT,"352,BASELINE ROAD,COLOMBO 9",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,golden maid chinese restaurant
+RES000116,MAKRIN RESTAURANT AND BAKERY,"NO. 798, HORANA ROAD, BORALESGAMUWA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,makrin restaurant and bakery
+RES000117,PUBS N PLACES -THE SHORE BY O,"43/14,OFF COLLEGE AVENUE,MOUNT LAVINIA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,pubs n places the shore by o
+RES000118,HESHAN RESTAURANT,"178/1 MAHABAGE ROAD,RAGAMA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,heshan restaurant
+RES000119,FOOD LIFE CONCEPTS,"27A,ANAGARIKA DHARMAPALA MW,KANDY.",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,food life concepts
+RES000120,NEW MAY FLOWER RESTAURANT,"NO. 5/1/1, OLD KESBAWA ROAD, NUGEGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,new may flower restaurant
+RES000121,METHRA RESTAURANT,"NO. 179, STANLEY THILAKARATHNA MAWATHA, NUGEGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,methra restaurant
+RES000122,FLOWER SONG RESTAURANT,"137,KOTUGODELLA VIDIYA,KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,flower song restaurant
+RES000123,MALWARSHA TOURIST RESTAURANT,"NO. 245, MALWARUSHAWA, DEHIOWITA",Kegalle,,B,,,,,,,official_tourism,Restaurants.xlsx,malwarsha tourist restaurant
+RES000124,FREE TOWN RESTAURANT,"NO.05,NEW BUS STAND,A-PURA",Anuradhapura,,B,,,,,,,official_tourism,Restaurants.xlsx,free town restaurant
+RES000125,HAUS ATHULA RESTAURANT,"149 GALLE ROAD,BENTOTA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,haus athula restaurant
+RES000126,HARITHA RESTAURANT,"86/3A,HIGH LEVAL ROAD,THUNNANA,HANWELLA.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,haritha restaurant
+RES000127,JU CHUN YAN CHINESE RESTAURANT,"NO 450 B,R.A DE MEL MAWATHA,KOLLUPITIYA,COLOMBO-03",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,ju chun yan chinese restaurant
+RES000128,HANGAR BAR,"NO.62D , AT DEPARTURE/TRANSIT AREA,BIA KATUNAYAKE",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,hangar bar
+RES000129,FINGARA TOWN & COUNTRY CLUB,"NO. 50/21, OLD KESBEWA ROAD, RATHTHANAPITIYA, BORALESGAMUWA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,fingara town country club
+RES000130,JOLLY RESTAURANT,"NO.27,PALALY ROAD,THIRUNELVELLY,JAFFNA.",Jaffna,,A,,,,,,,official_tourism,Restaurants.xlsx,jolly restaurant
+RES000131,HAN GOOK GWAN- KOREAN RESTAURANT,"NO.25,HAVELOCK ROAD,COLOMBO 5",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,han gook gwan korean restaurant
+RES000132,MLESNA TEA CASTLE,"NUWARA ELIYA ROAD, PATHANA, TALAWAKELE",Nuwara Eliya,,A,,,,,,,official_tourism,Restaurants.xlsx,mlesna tea castle
+RES000133,HALCYON BEACH,"NO.11,PORUTHOTA ROAD,NEGOMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,halcyon beach
+RES000134,JANAKALA AVANHALA,"JANAKALA AVANHALA,KANDY ROAD,KURUNEGALA",Kurunegala,,A,,,,,,,official_tourism,Restaurants.xlsx,janakala avanhala
+RES000135,H.S.RESTAURANT,"NO.103,COLOMBO ROAD,KANDANA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,h s restaurant
+RES000136,J.N.A RESTAURANT AND BAR,"NO.26,KANDY ROAD,KIRIBATHGODA,KELANIYA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,j n a restaurant and bar
+RES000137,J.L.H.BEACH RESTAURANT,"382/1,GALLE ROAD,HIKKADUWA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,j l h beach restaurant
+RES000138,MOON RIVER CHINESE SEA FOOD RESTAURANT,"NO. 140, THIMBIRIGASYAYA ROAD, COLOMBO 05",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,moon river chinese sea food restaurant
+RES000139,MOSHI MOSHI INTERNATIONAL,"NO. 594/2, GALLE ROAD, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,moshi moshi international
+RES000140,MLESNA TEA FORTRESS RESTAURANT,"NO. 445, COLOMBO ROAD, KIRIBATHKUMBURA",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,mlesna tea fortress restaurant
+RES000141,NANKING DELIGHTS CHINESE RESTAURANT,"NO. 885/1A & NO. 885 1/1D, BUTHGAMUWA ROAD, GOTHATUWA, NEWTOWN",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,nanking delights chinese restaurant
+RES000142,NEBULA GARDENS,"NO. 88/1, WELIPENNA ROAD, ALUTHGAMA",Galle,,B,,,,,,,official_tourism,Restaurants.xlsx,nebula gardens
+RES000143,NETHMINA RESTAURANT,"NO. 31/1, DENIYAYA ROAD, AKURESSA",Matara,,B,,,,,,,official_tourism,Restaurants.xlsx,nethmina restaurant
+RES000144,PUBS AND PLACES - PANADURA,"NO. 549, GALLE ROAD, PANADURA",Kalutara,,A,,,,,,,official_tourism,Restaurants.xlsx,pubs and places panadura
+RES000145,NEW CITY RESTAURANT,"NO. 121, D.S. DE.S. JAYASINGHE MAWATHA, KOHUWALA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,new city restaurant
+RES000146,NEW SIGIRI RESTAURANT,"EHALAGALA, SIGIRIYA",Matale,,A,,,,,,,official_tourism,Restaurants.xlsx,new sigiri restaurant
+RES000147,NEW SUNSHINE RESTAURANT,"NO. 437, KANDY ROAD, KELANIYA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,new sunshine restaurant
+RES000148,NEW THISARA CHINESE RESTAURANT,"NO. 22, OLD ROAD, PANNIPITIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,new thisara chinese restaurant
+RES000149,NICAS RESTAURANT & BAR,"NO. 361, YAKKALA ROAD, BANDARAWATTA, GAMPAHA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,nicas restaurant bar
+RES000150,KUDOS RESTAURANT & BAR,"206,HAVELOCK ROAD,COLOMBO-5",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,kudos restaurant bar
+RES000151,NILAVELI VILLAGE RESTAURANT,"WARD NO.3, GOPALAPURAM, NILAVELI",Trincomalee,,A,,,,,,,official_tourism,Restaurants.xlsx,nilaveli village restaurant
+RES000152,NIMANSALA RESTAURANT,"NO. 784, HIGH LEVEL ROAD, PANAGODA, HOMAGAMA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,nimansala restaurant
+RES000153,KOUCHI JAPANESE RESAURANT,"265,NEW KANDY RD,KOSSWATTA,BATTARAMULLA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,kouchi japanese resaurant
+RES000154,NIPUNA RESTAURANT,"NO. 57, MAIN STREET, KEGALLE",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,nipuna restaurant
+RES000155,NIRMALA RESTAURANT,"SRI JAYAWARDENAPURA ROAD, DELDUWA, WADDUWA.",Kalutara,,A,,,,,,,official_tourism,Restaurants.xlsx,nirmala restaurant
+RES000156,PUBS AND PLACES - AMBALANGODA,"NO. 281, MAIN STREET, AMBALANGODA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,pubs and places ambalangoda
+RES000157,KINJOU CHINESE RESTAURANT,"33,AMARASEKARA MW,COLOMBO-05",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,kinjou chinese restaurant
+RES000158,KINGS COURT TOURIST RESORT,"THURUVIYANA,PARABAVILA,POTHUHERA",Kurunegala,,A,,,,,,,official_tourism,Restaurants.xlsx,kings court tourist resort
+RES000159,KING PRAWN RESTAURANT,"630.PRINCE OF WALES AVENUE,COLOMBO14",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,king prawn restaurant
+RES000160,RAFFLERS RESTAURANT,"NO.35,BAGATALE ROAD,COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,rafflers restaurant
+RES000161,PARADISE ROAD THE GALLERY CAFE,"NO,02,ALFRED HOUSE ROAD,COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,paradise road the gallery cafe
+RES000162,NEW PARADISE TOURIST RESTAURANT,"UTHUWANKANDA, MAWANELLA",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,new paradise tourist restaurant
+RES000163,SINHARA & COMPANY,"NO. 340, GALLE ROAD, RATMALANA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sinhara company
+RES000164,THE CINNAMON HOLIDAY RESORT,"ELPITIYA ROAD,URUGASMANHANDIYA.",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,the cinnamon holiday resort
+RES000165,NOBEL RESTAURANT,"NO. 100/12, PORUTOTA ROAD, PALANGATURAI, KOCHCHIKADE",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,nobel restaurant
+RES000166,RANGOON RESTAURANT,"NO. 298, GALLE ROAD, ALUTHGAMA",Kalutara,,B,,,,,,,official_tourism,Restaurants.xlsx,rangoon restaurant
+RES000167,RAVI RESTAURANT,"NO.39,ST.ANNE'S ROAD,CHUNDIKULI,JAFFNA",Jaffna,,A,,,,,,,official_tourism,Restaurants.xlsx,ravi restaurant
+RES000168,RAMPART RESTAURANT,"NO. 31, RAMPART STREET, FORT, GALLE",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,rampart restaurant
+RES000169,RATHNAGIRI RASAHALA,"NO80,PUTTALAM ROAD,KURUNEGALA",Kurunegala,,B,,,,,,,official_tourism,Restaurants.xlsx,rathnagiri rasahala
+RES000170,ROCK VIEW RESTAURANT,"PAHALA KADUGANNAWA,KADUGANNAWA",Kegalle,,B,,,,,,,official_tourism,Restaurants.xlsx,rock view restaurant
+RES000171,RIVERSIDE PARK RESTAURANT,"REST HOUSE ROAD,HANWELLA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,riverside park restaurant
+RES000172,RANMUTHU CHINESE RESTAURANT,"NO. 288/5, AVISAWELLA ROAD, MEGOA, KOLONNAWA, WELLAMPITIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,ranmuthu chinese restaurant
+RES000173,HASARA RESTAURANT,"NO270,DADALLA,GALLE",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,hasara restaurant
+RES000174,PLANET CUZENE,"NO. 143 3/2, MOUNT CITY, GALLE ROAD, MOUNT LAVINIA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,planet cuzene
+RES000175,THE PUBLIC HOUSE HOTEL & RESTAURANT,"NO. 255, KANDY ROAD, WARAKAPOLA",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,the public house hotel restaurant
+RES000176,THE PAN RESTAURANT,"NO.107,OLD NEGOMBO ROAD,WATTALA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,the pan restaurant
+RES000177,SEVEN ELEVEN RESTAURANT & BAR,"1ST FLOOR,CAPITAL MALL,531MADIWELA RD,THALAWATHUGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,seven eleven restaurant bar
+RES000178,THE MANGO TREE,"NO.82,DHARMAPALA MAWATHA,COLOMBO-03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,the mango tree
+RES000179,BAYLEAF RESTAURANT,"NO.79, GEGARYS ROAD, COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,bayleaf restaurant
+RES000180,PRIYANTHA CHINESE RESTAURANT,"NO. 05, NEW BAY ROAD, AKURESSA",Matara,,A,,,,,,,official_tourism,Restaurants.xlsx,priyantha chinese restaurant
+RES000181,PRIYANGANI RESTAURANT,"NO. 16A, SIDE STREET, HATTON",Nuwara Eliya,,A,,,,,,,official_tourism,Restaurants.xlsx,priyangani restaurant
+RES000182,THANU RESTAURANT,"KATHIOLLOI,INUVIL EAST,INUVIL.",Jaffna,,A,,,,,,,official_tourism,Restaurants.xlsx,thanu restaurant
+RES000183,PRIMA TASTE MANAGED BY UPALI,"NO. 50, SRI JAYAWARDENAPURA MAWATHA, RAJAGIRIYA.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,prima taste managed by upali
+RES000184,SADRA RESTAURANT,"NO.172/6,KANDY ROAD,KADAWATHA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sadra restaurant
+RES000185,SAVANNAH RESTAURANT,"NO. 385/A/1/1, NEGOMBO ROAD, WATTALA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,savannah restaurant
+RES000186,SAKURA RESTAURANT,"NO. 14, RHEINLAND PLACE,COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sakura restaurant
+RES000187,SAKURA RESTAURANT,"NO. 01, OLD ROAD, AGALAWATHTHA",Kalutara,,A,,,,,,,official_tourism,Restaurants.xlsx,sakura restaurant
+RES000188,SAKILA RESTAURANT,"NO. 189, KOLONNAWA ROAD, DEMATAGODA, COLOMBO 09.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sakila restaurant
+RES000189,SALIKA INN,"NO. 118, COLOMBO ROAD, KEGALLE",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,salika inn
+RES000190,SAMANALA PARADISE RESTAURANT,"NO. 293, KANDY ROAD, GALA JUNCTION, KELANIYA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,samanala paradise restaurant
+RES000191,SAMANALA RESTAURANT (KOTTE),"NO. 327, MADIWELA, KOTTE",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,samanala restaurant kotte
+RES000192,SAMANALA RESTAURANT (KIRIBATHGODA),"NO. 12, KANDY ROAD, KIRIBATHGODA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,samanala restaurant kiribathgoda
+RES000193,SAMANMAL CHINESE RESTAURANT,"NO. 64, UDYANA ROAD, MATARA",Matara,,A,,,,,,,official_tourism,Restaurants.xlsx,samanmal chinese restaurant
+RES000194,SEA FISH RESTAURANT,"NO. 15, SRI CHITTAMPALAM A GARDENER MAWATHA, COLOMBO 02",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sea fish restaurant
+RES000195,SEA LION RESTAURANT,"NO. 25, KANDY ROAD, KIRIBATHGODA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,sea lion restaurant
+RES000196,HOLLYWOOD COLOMBO,"NO. 70, HAVLOCK ROAD, COLOMBO 05",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,hollywood colombo
+RES000197,BROADWAY RESTAURANT,"NO. 03 1/1, STATION ROAD, DEHIWALA.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,broadway restaurant
+RES000198,PUBS AND PLACES - HOMAGAMA,"NO. 81 1/1, STATION ROAD, HOMAGAMA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,pubs and places homagama
+RES000199,SHANGHAI CHINESE RESTAURANT,"NO. 90, GALLE ROAD, MOUNT LAVINIA",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,shanghai chinese restaurant
+RES000200,HOTEL 198,"NO. 198, PORUTHOTA ROAD,PALANGATHURE, KOCHCHIKADE",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,hotel 198
+RES000201,SHAN RESTAURANT,"MARASSANA ROAD, KANDAKULA, THALATHUOYA",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,shan restaurant
+RES000202,SENEK VIN RESTAURANT,"NO. 13, GALLE ROAD, AMBALANGODA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,senek vin restaurant
+RES000203,SANHINDA LEISURE CENTER,"NO. 247/6, STANLEY THILAKARATHNA MAWATHA, NUGEGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sanhinda leisure center
+RES000204,SANJEEWA RESTAURANT,"NO. 273B, MUDUNPITAKANDA, KIRINDIWELA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,sanjeewa restaurant
+RES000205,SANORA RESTAURANT,"NO. 668, PANNIPITIYA ROAD, THALAWATUGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sanora restaurant
+RES000206,SANSUCHI CAFE,"NO. 189/1, NEW KANDY ROAD, WELIWERIYA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,sansuchi cafe
+RES000207,SAPHIRE KAROKE RESTAURANT,"NO. 20/3, ABDUL GAFFOR MAWATHA, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,saphire karoke restaurant
+RES000208,SOPRANOS,"NO. 29, MAITLAND CRESCENT COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sopranos
+RES000209,SOLIS TOURIST RESTAURANT,"NO. 533 A, NAWALA ROAD, RAJAGIRIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,solis tourist restaurant
+RES000210,SINTHAO CHINESE RESTAURANT,"NO. 8/1/2/2, DEHIWALA ROAD, MAHARAGAMA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sinthao chinese restaurant
+RES000211,SILVER SPOON RESTAURANT,"NO. 953, THALANGAMA SOUTH, BATTARAMULLA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,silver spoon restaurant
+RES000212,SHINSHIO CHINESE RESTAURANT,"NO. 159, DUTUGAMUNU STREET, KOHUWELA, NUGEGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,shinshio chinese restaurant
+RES000213,SHERRY LAND RESTAURANT,"NO. 74, PORUTOTA ROAD, ETTUKALA, NEGOMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,sherry land restaurant
+RES000214,XILATION CHINESE RESTAURANT,"NO. 126, HAVELOCK ROAD, COLOMBO 05",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,xilation chinese restaurant
+RES000215,SPOON & PAN RESTAURANT,"NO. 673/1, KANDY ROAD, PELIYAGODA, PATTIYA JUNCTION-KELANIYA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,spoon pan restaurant
+RES000216,SRI JAYA SADA NIKETHANAYA,"MEEGAHAPELASSA, WELIPENNAGAHAMULA",Kurunegala,,A,,,,,,,official_tourism,Restaurants.xlsx,sri jaya sada nikethanaya
+RES000217,SUMIHIRI ARUNALOKA HOTEL & RESTAURANT,"NO. 504 1/1, AMBALANGODA ROAD, KURUNDUGAHA HETHEKMA, ELPITIYA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,sumihiri arunaloka hotel restaurant
+RES000218,PIER 3 FLOATING RESTAURANT,"NO. 38/F, D.R. WIJEWARDANA MAWATHA, COLOMBO 10",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,pier 3 floating restaurant
+RES000219,PARADISE CAFE & RESTAURANT,"NO. 68, ANURADHAPURA ROAD, THAMBUTTEGAMA",Anuradhapura,,A,,,,,,,official_tourism,Restaurants.xlsx,paradise cafe restaurant
+RES000220,ROYAL PALACE RESTAURANT,"NO. 14, SENANAYAKA MAWATHA, RATNAPURA",Ratnapura,,A,,,,,,,official_tourism,Restaurants.xlsx,royal palace restaurant
+RES000221,PENINSULA HOLIDAY RESTAURANT,"NO. 281, KANDY ROAD, JAFFNA",Jaffna,,A,,,,,,,official_tourism,Restaurants.xlsx,peninsula holiday restaurant
+RES000222,PANORAMA RESTAURANT (KOTTAWA),"NO. 138 1/1, HIGHLEVEL ROAD, KOTTAWA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,panorama restaurant kottawa
+RES000223,SIYANA AWANHALA,"NO. 133B, DISSAWATTA, HANWELLA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,siyana awanhala
+RES000224,PARK STREET CAFE,"NO. 50/1, PARK STREET, COLOMBO 02",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,park street cafe
+RES000225,ELEPHANT BAY RESTAURANT,"PINNAWALAWATTA, PINNAWALA",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,elephant bay restaurant
+RES000226,UNITED RESTAURANT,"NO. 193/1, KALAPALUWAWA, RAJAGIRIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,united restaurant
+RES000227,VAENI SEA RESTAURANT AND BAR,"NO. 25, BRASS FOUNDER STREET, COLOMBO 13",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,vaeni sea restaurant and bar
+RES000228,W.H. RESTAURANT,"NO. 18, SAMARAWEERA PLACE, WELIGAMA",Matara,,A,,,,,,,official_tourism,Restaurants.xlsx,w h restaurant
+RES000229,WEST INN CHINESE RESTAURANT,"NO. 192, DAM STREET, COLOMBO 12",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,west inn chinese restaurant
+RES000230,WINTER RESTAURANT,"NO. 19 , UNION PLACE, COLOMBO 02",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,winter restaurant
+RES000231,CHANVEL RESTAURANT (BATTARAMULLA),"NO. 181/1, MAIN STREET, BATTARAMULLA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,chanvel restaurant battaramulla
+RES000232,LOTUS LEAF RESTAURANT,"NO. 466, UNION PLACE, COLOMBO 02",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,lotus leaf restaurant
+RES000233,LUXMI RESTAURANT,"NO. 15, RAILWAY STATION ROAD, CHUNNAKAM",Jaffna,,A,,,,,,,official_tourism,Restaurants.xlsx,luxmi restaurant
+RES000234,LYONS,"NO. 27, PERADENIYA ROAD, KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,lyons
+RES000235,RODEO PUB N RESTURANT,"NO: 35,PORUTHOTA ROAD ,ETTUKALA,NEGOMBO",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,rodeo pub n resturant
+RES000236,ROYAL PARK RESTAURANT,"NO: 115,LAKE DRIVE, RAJAGIRIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,royal park restaurant
+RES000237,LAGOON BREEZE FOOD COURT,"NO. 664, LIYANEGEMULLA, SEEDUWA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,lagoon breeze food court
+RES000238,LANKA HANAJIMA RESTAURANT,"NO. 671, PIYADIGAMA, AHANGAMA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,lanka hanajima restaurant
+RES000239,LAVINIA BREEZE,"NO. 43/7, DE ALWIS AVENUE, OFF DE SERAM ROAD, MOUNT LAVINIA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,lavinia breeze
+RES000240,ROYAL RESTAURANT,"102/17,MATTEGODA WATTA.MATTEGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,royal restaurant
+RES000241,LEISUREWORLD WATER PARK,"SEETHAWAKA, KALUAGGALA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,leisureworld water park
+RES000242,LETONA CAFE,"NO. 252/4,KANDY ROAD, YAKKALA.",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,letona cafe
+RES000243,RUKMALI AVANHALA,"POLONNARUWA RD, MORAGASWEWA, HABARANA",Polonnaruwa,,B,,,,,,,official_tourism,Restaurants.xlsx,rukmali avanhala
+RES000244,ROYAL HOST RESTAURANT,"NO 242,HIGHLEVEL ROAD,NUGEGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,royal host restaurant
+RES000245,ROYAL GARDEN,"NO. 903/18, WILLIAM GOPALLAWA MAWATHA, KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,royal garden
+RES000246,SEMONDU,"SHOPPING PRESINT, SHOP NO. 2&3, BANK OF CEYLON MAWATHA, COLOMBO 01",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,semondu
+RES000247,WIP RESTAURANT,"HOTEL DEVELOPERS (LANKA) PLC, SHOPS NO. 01, OLD DUTCH HOSPITAL BUILDING, BANK OF CEYLON MAWATHA, COLOMBO 01",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,wip restaurant
+RES000248,ROYAL RESTAURANT (PADAVI),"NEW TOWN,PADAVI ,SIRIPURA",Anuradhapura,,A,,,,,,,official_tourism,Restaurants.xlsx,royal restaurant padavi
+RES000249,AYESHA RESTAURANT AND PUB,"GALLE ROAD,KALUWAMODARA,ALUTHGAMA",Kalutara,,A,,,,,,,official_tourism,Restaurants.xlsx,ayesha restaurant and pub
+RES000250,THE SIZZLE RESTAURANT,"32,WALUKARAMA ROAD,COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,the sizzle restaurant
+RES000251,GIHANS FAMILY RESTUARANT,"NO.90,S.DE.S.JAYASINGHA MAWATHA,KOHUWALA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,gihans family restuarant
+RES000252,GOOD FOOD RESTAURANT,"NO 310,MODERA STREET, COLOMBO 15",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,good food restaurant
+RES000253,GIRES RESTAURANT,"40, KANDY ROAD,GAMPOLA",Kandy,,B,,,,,,,official_tourism,Restaurants.xlsx,gires restaurant
+RES000254,INOKA CHINEES RESTAURANT,"719,ALUTH MAWATHA ROAD, COLOMBO 15",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,inoka chinees restaurant
+RES000255,ICELAND RESIDENCIES RESTAURANT,"NO.49/16, GALLE ROAD, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,iceland residencies restaurant
+RES000256,LA - TRATTORIA,"NO.80,PANNIPITIYA ROAD, BATTARAMULLA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,la trattoria
+RES000257,FH HOLDINGS,"418,FIRST FLOOR,GALLE ROAD, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,fh holdings
+RES000258,OTEL RESTAURANT,"129/4, ORUTOTA ROAD,MUDUNGODA, GAMPAHA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,otel restaurant
+RES000259,CO-OPERTIVE RESTAURANT,"130,GALLE ROAD, HIKKADUWA",Galle,,B,,,,,,,official_tourism,Restaurants.xlsx,co opertive restaurant
+RES000260,HILDON HOUSE,"49, MADAMPITIYA ROAD, COLOMBO 15",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,hildon house
+RES000261,NATURE VILLAGE AND RESTATURANT,"323/11, PAHALA BOMIRIYA, KADUWELA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,nature village and restaturant
+RES000262,B.H. RESTAURANT,"N0. 464, DEANS ROAD, COLOMBO 10",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,b h restaurant
+RES000263,STAR HOTEL,"NO.7, SEA STREET, COLOMBO 11",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,star hotel
+RES000264,SAWADA LIVING CREATION,"284/1B,MAHARAGAMA ROAD,BORALESGAMUWA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sawada living creation
+RES000265,CLUB CONCEPT RESTAURANT,"RANDENIYA, HIRIWADUNNA, KEGALLE",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,club concept restaurant
+RES000266,GIMHAN RESTAURANT,"NO. 259/1/1, DANISTER DE SILVA MAWATHA, COLOMBO 09",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,gimhan restaurant
+RES000267,GREEN VIEW HOTEL,"NO. 06, SIRIPURA WATTA, DAMBULLA ROAD, MALSIRIPURA",Kurunegala,,A,,,,,,,official_tourism,Restaurants.xlsx,green view hotel
+RES000268,HAWAI RESTAURANT & PUB,"NO. 240/32/31 A, DENZIL KOBBEKADUWA MW, KOSWATTA, BATTARAMULLA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,hawai restaurant pub
+RES000269,HOTEL FRANCIS,"NO. 389, GALLE ROAD, HIKKADUWA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,hotel francis
+RES000270,KENT RESTAURANT,"NO.270/2,KADUWELA ROAD,THALANGAMA NORTH,KOSWATTA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,kent restaurant
+RES000271,MANGOS,"STALL NO. 1, CRESCAT BOULEVARD, GALLE ROAD, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,mangos
+RES000272,MAHARAJA PALACE RESTAURANT,"NO. 1/A, RAJAKEEYA MAWATHA, COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,maharaja palace restaurant
+RES000273,RAJEEI RESTAURANT,"RAMALINGAM ROAD, THIRUNELVELLY, JAFFNA",Jaffna,,A,,,,,,,official_tourism,Restaurants.xlsx,rajeei restaurant
+RES000274,RALIDIYA RESTAURANT,"PINNAWALA, RAMBUKKANA",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,ralidiya restaurant
+RES000275,NEW RANRO RESTAURANT,"NO. 462, COLOMBO ROAD, PILIMATALAWA",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,new ranro restaurant
+RES000276,RANVIYANA RESTAURANT,"NO. 319/A/01, HIGHLEVEL ROAD, GALAGEDERA, PADUKKA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,ranviyana restaurant
+RES000277,NEW RANSILU RESTAURANT,"NO. 436/73, ELVITIGALA MAWATHA, COLOMBO 05",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,new ransilu restaurant
+RES000278,RHYTHM & BLUES,"NO. 19/1A, DAISY VILLA AVENUE.,DUPLICATION ROAD,COLOMBO 04",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,rhythm blues
+RES000279,THE DEN,"NO.418/1/1,1ST FLOOR,GALLE ROAD,COLOMBO 03.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,the den
+RES000280,THE WHITE ROSE TOURIST RESTAURANT,"PORUTOTA ROAD, ETTUKALA, NEGOMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,the white rose tourist restaurant
+RES000281,TIVERTON CHINESE RESTAURANT,"NO. 225, COLOMBO STREET, KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,tiverton chinese restaurant
+RES000282,THE PAVILION,"NO. 100/10, INDEPENDENCE AVENUE,COLOMBO-07",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,the pavilion
+RES000283,THE STATION S.U.N,"NO. 41/1, WASALA RD, DEHIWALA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,the station s u n
+RES000284,PUBS AND PLACES-NAWALA,"NO. 277/3/1,STANLEY THILAKARATHNE MAWATHA,NUGEGODA.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,pubs and places nawala
+RES000285,SHANGHAI TERRACE,"811, KOTTE ROAD, ETHUL KOTTE",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,shanghai terrace
+RES000286,GOLDEN MERMAID HOTELS,"359,GALLE ROAD,WARAHENA ,BENTOTA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,golden mermaid hotels
+RES000287,AMBEPUSSA AVANHALA,"AMBEPUSSA,WARAKAPOLA",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,ambepussa avanhala
+RES000288,ARPICO FOOD COURT,"679,PERADENIYA RD,KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,arpico food court
+RES000289,PUBS AND PLACES (DIYAWANNA),"NO 117,BUTHGAMUWA ROAD,KOTUWEGODA.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,pubs and places diyawanna
+RES000290,SUPIPI LANKA RESTAURANT & PUB,"765/B, THORANA JUNCTION, KANDY ROAD, KALANIYA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,supipi lanka restaurant pub
+RES000291,QBAA,"02,DE FONSEKA ROAD, COLOMBO - 05",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,qbaa
+RES000292,PUBS AND PLACES (COLOMBO),"43-2/1, MAITLAND CRESCENT,COLOMBO 07.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,pubs and places colombo
+RES000293,OAK RAY RESTAURANT.,"NO 09, 2ND RAJASINGHE MAWATHA, GATABE, KANDY.",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,oak ray restaurant
+RES000294,S.K RESTURANT,"URUTHIRAPURAM,PERIYAPARANTHAN,KILINOCHCHI.",Kilinochchi,,A,,,,,,,official_tourism,Restaurants.xlsx,s k resturant
+RES000295,BEEHIVE BY RNR,"MS 04,RACE COURSE,REID AVENUE,COLOMBO 07.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,beehive by rnr
+RES000296,SENSASIA,"NO 96/A/3,PERALANDA,RAGAMA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,sensasia
+RES000297,SARAVA VILLAGE,"NO. 609, GALLE ROAD, NARIGAMA, HIKKADUWA",Galle,,B,,,,,,,official_tourism,Restaurants.xlsx,sarava village
+RES000298,CLEOPATRA RESTAURANT,"NO. 250 B1, R.A.DE MEL MAWATHA, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,cleopatra restaurant
+RES000299,41 SUGAR,"NO. 41 1/2, MAITLAND CRESCENT, COLOMBO 07.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,41 sugar
+RES000300,NIPUNA RESTAURANT (ALAWWA),"NO. 372, COLOMBO ROAD, KAPUWARALA, ALAWWA",Kurunegala,,A,,,,,,,official_tourism,Restaurants.xlsx,nipuna restaurant alawwa
+RES000301,SOVEREIGN GERMAN RESTUARANT,"NO. 157, NAWALA ROAD, NUGEGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sovereign german restuarant
+RES000302,BEACH WADIYA,"NO. 02, STATION AVENUE, COLOMBO 06",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,beach wadiya
+RES000303,BARS CAFE,"NO. 24, DEAL PLACE, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,bars cafe
+RES000304,MINISTRY OF CRAB,"SHOP 4, OLD DUTCH HOSPITAL BUILDING BANK OF CEYLON MAWATHA, COLOMBO FORT",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,ministry of crab
+RES000305,NIPPON RESTAURANT,"NO.32,SRI MOHOMED MACAN MARKAR MAWATHA ,COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,nippon restaurant
+RES000306,GRAND MONARCH,"NO 527/7,BORELLA ROAD,THALAWATHUGODA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,grand monarch
+RES000307,JO - JOS PLACE,"NO. 43/6 A , DE ALWIS AVENUE , MOUNT LAVINIA",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,jo jos place
+RES000308,RONS RESTAURANT & BAR,"NO. 160 , MAKOLA ROAD , KIRIBATHGODA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,rons restaurant bar
+RES000309,THE NEW PAN RESTAURANT,"NO. 218/4 , NEGOMBO ROAD , WATTALA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,the new pan restaurant
+RES000310,TSING TAO,"MS -5 FIRST FLOOR,RACE COURSE,REID AVENUE,COLOMBO 7",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,tsing tao
+RES000311,JACK TREE RESTAURANT,"NO:200,PARK ROAD,COLOMBO 5",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,jack tree restaurant
+RES000312,MALLIKA TRADING COMPLEX,"KANDY ROAD,KENGALLA.",Kandy,,B,,,,,,,official_tourism,Restaurants.xlsx,mallika trading complex
+RES000313,PUBS AND PLACES (HIKKA CAFE),"NO 317,GALLE ROAD,HIKKADUWA",Galle,,B,,,,,,,official_tourism,Restaurants.xlsx,pubs and places hikka cafe
+RES000314,NEW BLUE LAGOON RESTURANT,"NO 63/33,RANTHAMBILIGAHAWATTA,MORAGALLA,ALUTHGAMA",Kalutara,,B,,,,,,,official_tourism,Restaurants.xlsx,new blue lagoon resturant
+RES000315,VIENNA KAROKE BAR AND RESTAURANT,"6A,6AY,ALFRED HOUSE ROAD,COLOMBO 3",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,vienna karoke bar and restaurant
+RES000316,TAMARIND TREE,"NO:5,BASELINE ROAD,AVARIWATTA,KATUNAYAKA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,tamarind tree
+RES000317,TAPHOUSE BY R N R,"DUTCH HOSPITAL BUILDNE,COLOMBO 01",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,taphouse by r n r
+RES000318,E.A.P.RESTAURANT,"NO:20,DR.N.M.PERERA MAWATHA,COLOMBO 08",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,e a p restaurant
+RES000319,GAWRAWA NETHWAN,"NO:89/1,HIGHLEVEL ROAD,KOTTAWA,PANNIPITIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,gawrawa nethwan
+RES000320,SEASONS,"250/215,LIBERTY PLAZA,2ND FLOOR,R.A DE MEL MAWATHA,COLOMBO 3",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,seasons
+RES000321,SUN FLOWERS RESTAURANT,"BEACH SIDE,OFF POLICE BUNGLOW ROAD,MORAGALLA,BERUWALA",Kalutara,,B,,,,,,,official_tourism,Restaurants.xlsx,sun flowers restaurant
+RES000322,TROPICAL VILLAGE RESORT,"PALWEHERA,DAMBULLA",Matale,,B,,,,,,,official_tourism,Restaurants.xlsx,tropical village resort
+RES000323,MACHAN (PANNIPITIYA),"179/5,HIGH LEVEL ROAD,PANNIPITIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,machan pannipitiya
+RES000324,LUFORTUNE,"108/1,SIRIBOPURA,HAMBANTOTA",Hambantota,,B,,,,,,,official_tourism,Restaurants.xlsx,lufortune
+RES000325,KINNAREE RESTAURANTS,"62A, 1ST FLOOR, CHATHAM STREET, COLOMBO 1.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,kinnaree restaurants
+RES000326,LA FIESTA RESTURANT AND BAR,"62/4 CHATHAM STREET FORT,COLOMBO 1",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,la fiesta resturant and bar
+RES000327,MANJE RESTURANT,"NO 622,ANURADHAPURA ROAD,DAMBULLA",Matale,,B,,,,,,,official_tourism,Restaurants.xlsx,manje resturant
+RES000328,JETTERS,"NO 103E/4,NEW KANDY ROAD,KOTALAWALA,KADUWELA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,jetters
+RES000329,JAMBO RESTAURANT,"NATIONAL ZOOLOGICAL GARDEN ,DEHIWALA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,jambo restaurant
+RES000330,C LOUNGE,"16/2,SCHOFIELD PLACE,COLOMBO",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,c lounge
+RES000331,T LOUNGE BY DILMAH,"62/2,CHATHAM STREET,COLOMBO 1",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,t lounge by dilmah
+RES000332,SHANGHAI RESTAURANT,"NO: 209,HORANA ROAR,PILIYANDALA",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,shanghai restaurant
+RES000333,PRASANGIKA RESTURANT,"NO 139,KURUSA HANDIYA,PUGODA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,prasangika resturant
+RES000334,CHANNA RESTURANT,"B 7 ,KANDY ROAD,MEEPITIYA,KEGALLE",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,channa resturant
+RES000335,THE BOULEVARD,"NO 33,QUEENS ROAD,COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,the boulevard
+RES000336,LONG TENG CHINESE RESTURANT,"NO 347,KANDY ROAD,AMBEPUSSA,WARAKAPOLA",Kegalle,,A,,,,,,,official_tourism,Restaurants.xlsx,long teng chinese resturant
+RES000337,MACHAN (DAMBULLA),"NO 34,MIRISGONIYA,TRINCO ROAD,DAMBULLA",Matale,,A,,,,,,,official_tourism,Restaurants.xlsx,machan dambulla
+RES000338,VICEROY SPECIAL RESTURANT,"C/0,JF TOURS,TRAVEL (CEY)LTD,58,HAVLOCK ROASD,COLOMBO 05",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,viceroy special resturant
+RES000339,SHIRANI RESTAURANT,"N0.53/1/1, D.S SENANAYAKE MW, COLOMBO 08.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,shirani restaurant
+RES000340,MACHAN (JA ELA),"300.TUDELLA,JA ELA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,machan ja ela
+RES000341,MACHAN (NEGAMBO),"21,MINUWANGODA ROAD,NEGAMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,machan negambo
+RES000342,SEA FOOD RESTAURANT,"NO 344,MATARA ROAD,TANGALLE",Hambantota,,A,,,,,,,official_tourism,Restaurants.xlsx,sea food restaurant
+RES000343,TGI FRIDAYS,"23,CANAL ROW,FORT,COLOMBO 01",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,tgi fridays
+RES000344,SAMANALA RESTAURANT (MAHO),"KITULHERAGAMA, NAGOLLAGAMA, MAHO",Kurunegala,,B,,,,,,,official_tourism,Restaurants.xlsx,samanala restaurant maho
+RES000345,DOLCE VITA,"27,PORUTHOTA ROAD,ETHUKALA,NEGAMBO",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,dolce vita
+RES000346,AMBA SEVANA RESTAURANT,"154/A,KANDY ROAD,DALUGAMA,KELANIYA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,amba sevana restaurant
+RES000347,GAYANS FAMILY RESTURANT,"296,HOSPITAL ROAD,NEW TOWN,MULLERIYAWA",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,gayans family resturant
+RES000348,THIDAS ARANA RESTAURANT,"23RD MILE POST,BENDIWEWA,POLONNARUWA",Polonnaruwa,,A,,,,,,,official_tourism,Restaurants.xlsx,thidas arana restaurant
+RES000349,HOTEL RIVER ISLAND,"CHRISTOPER MAWATHA,WENNAPPUWA.",Puttalam,,A,,,,,,,official_tourism,Restaurants.xlsx,hotel river island
+RES000350,SANPAOLO GARDENS RESTURANT,"CHARLES WILLIAM MW,WEWNNAPPUWA",Puttalam,,A,,,,,,,official_tourism,Restaurants.xlsx,sanpaolo gardens resturant
+RES000351,FUNKY DE BAR,"NO:538/2,538/1,WEWALA,GALLE ROAD,HIKKADUWA",Galle,,B,,,,,,,official_tourism,Restaurants.xlsx,funky de bar
+RES000352,PEKING PALACE,"NO:262/A,NAWALA ROAD,NAWALA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,peking palace
+RES000353,CLIQUE RESTAURANT,"505,UNION PLACE,COLOMBO 02",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,clique restaurant
+RES000354,AMARAVATHI RESTAURANT,"NO 02,MILE POST AVENUE,COLOMBO 02",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,amaravathi restaurant
+RES000355,UPALIS BY NAWALOKA,"NO 65,C.W.W KANNANGARA MW,COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,upalis by nawaloka
+RES000356,IBIZA RESTAURANT,"387 D 2/1 ,GALLE ROAD ,RATHMALANA",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,ibiza restaurant
+RES000357,ROYAL CHINES RESTAURANT,"NO:12/2,KOSWATTA,RATHMALE RD,KEKENADURA",Matara,,B,,,,,,,official_tourism,Restaurants.xlsx,royal chines restaurant
+RES000358,WHIGHTE AND CO CAFE,"24,ALOE AVENUE ,COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,whighte and co cafe
+RES000359,VICEROY II,"58,HAVELOCK ROAD,COLOMBO 05",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,viceroy ii
+RES000360,RAILWAY CATERING SERVICE,RAILWAY STATION FORT.,Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,railway catering service
+RES000361,TRANQUIL ULTRA LOUNGE,"NO:85B,DHARMAPALA MAWATHA,COLOMBO 7",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,tranquil ultra lounge
+RES000362,FLAMINGO HOUSE,"NO 56/5,58 A,HORTON PLACE,COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,flamingo house
+RES000363,TUSKER RESTAURANT,"83, ETHUKALA ROAD, KATUWA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,tusker restaurant
+RES000364,WHICH WAY WEST-CAFE-PUB-LOUNGE,"UNIT L/FF,FIRST FLOOR,THE LIBERTY ARCADE,NO.282 R.A. DE MEL MAWATHA, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,which way west cafe pub lounge
+RES000365,ORO 1889,"SHOP 5,LEVEZ 2,282 R.A.DE MEL MAWATHA,COLOMBO 03",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,oro 1889
+RES000366,LEMONGRASS (PALAWATTA),"241,PANIPITYA ROAD,PALAWATTA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,lemongrass palawatta
+RES000367,NOMADS & CO,"NO:66/3,WARD PLACE,COLOMBO 7",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,nomads co
+RES000368,WINE CONNECTION,"NO 30 (SHOP NO 03), INDEPENDENCE SQUARE, COLOMBO 07.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,wine connection
+RES000369,KAEMASUTRA RESTURANT,"NO 30,INDEPENDENCE SQUARE,COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,kaemasutra resturant
+RES000370,PREGO,"NO 02E,PORUTHOTA ROAD,NEGAMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,prego
+RES000371,KING TASTE RESTURANT,"NO 04,BANDARANAYAKA MW,KATUBEDDA,MORATUWA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,king taste resturant
+RES000372,CAFE CEYLON RESTAURANT,"MATARA ROAD,KABALANA,AHANGAMA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,cafe ceylon restaurant
+RES000373,MIYULA RESTAURANT,"KANDY COLOMBO ROAD,PAHALA KADUGANNAWA,HINGULA",Kegalle,,B,,,,,,,official_tourism,Restaurants.xlsx,miyula restaurant
+RES000374,169 RESTURANT,"NEW ROAD,NEAR ECONOMIC CENTER,DAMBULLA",Matale,,B,,,,,,,official_tourism,Restaurants.xlsx,169 resturant
+RES000375,SENWIN RESTAURANT,"NO 266A, MANAMPITA, THALGASWALA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,senwin restaurant
+RES000376,TALPE BEACH,"NO 1042, MATARA ROAD, TALPE, GALLE",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,talpe beach
+RES000377,KANDOORI RESTAURANT (COLOMBO),"17,CHARLIMONT ROAD,COLOMBO 06",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,kandoori restaurant colombo
+RES000378,THE SUSHIBAR SAMURAI,"ETHUKALE,PORUTOTA ROAD,NEGOMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,the sushibar samurai
+RES000379,TSUKIJI UOICHI,"WP 07,NO 30, ARCADE INDEPENDANCE SQUARE,COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,tsukiji uoichi
+RES000380,YUZHENGE RESTAURANT,"51C,ALEXANDRA PLACE,COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,yuzhenge restaurant
+RES000381,SINGHARAJA,"120,GALLE ROAD KALUEAMODARA,ALUTHGAMA",Kalutara,,A,,,,,,,official_tourism,Restaurants.xlsx,singharaja
+RES000382,CITY RESTAURANT,"MANATKUDIYIRUPPU,MULLAITIVU",Mullaitivu,,B,,,,,,,official_tourism,Restaurants.xlsx,city restaurant
+RES000383,TAPHOUSE BY RNR,"SHOP NO- GF 07,DUTCH HOSPITAL SHOPPING PRECINT,GALLE FORT,GALLE",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,taphouse by rnr
+RES000384,RASARA RESTAURANT,"NO 35 POTUVIL ROAD,DOMBAGAHAWELA,MONARAGALA",Moneragala,,B,,,,,,,official_tourism,Restaurants.xlsx,rasara restaurant
+RES000385,TANG DYNASTY CHINESE RESTAURANT,"NO 75,DICKMANS ROAD,COLOMBO 05",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,tang dynasty chinese restaurant
+RES000386,DAFFODIL HOTEL,"KOYIL KUDIYIRUPPU, MULLATIVU.",Mullaitivu,,A,,,,,,,official_tourism,Restaurants.xlsx,daffodil hotel
+RES000387,KAMLO SEA FOOD RESTAURANT,"62,PORUTHOTA ROAD,ETTUKALA,NEGOMBO",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,kamlo sea food restaurant
+RES000388,ROSANDA RESTAURANT,"NO.107/4 KURUNEGALA ROAD,KOTADENIYAWA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,rosanda restaurant
+RES000389,HOTEL PARAMA,"NO.370,DELGAHAWATTA,MEETIYAGODA.",Galle,,B,,,,,,,official_tourism,Restaurants.xlsx,hotel parama
+RES000390,WANAPETHA RESTAURANT,"129/1, HORANA ROAD, KESBEWA.",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,wanapetha restaurant
+RES000391,THE WHITE HOUSE RESTAURANT.,"NO 31 GALLE ROAD, AMBALANGODA.",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,the white house restaurant
+RES000392,ANKARA TURKISH RESTAURANT,25 MILAGIRIYA AVENUE COLOMBO 04,Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,ankara turkish restaurant
+RES000393,LA ROZA RESTAURANT,"400/1, AVISSAWELLA ROAD, IHALA BOMIRIYA, KADUWELA.",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,la roza restaurant
+RES000394,THE GRAND TOURIST HOLIDAY RESORT,"4/B/2,STAGE 1,LAKE ROAD,HARISCHANDRA MAWATHA,ANURADHAPURA.",Anuradhapura,,B,,,,,,,official_tourism,Restaurants.xlsx,the grand tourist holiday resort
+RES000395,DKN CAFE,"475/C,SRI JAYAWARDENAPURA MAWATHA,WELIKADA,RAJAGIRIYA.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,dkn cafe
+RES000396,GAMMANAYA ECO TOURISM RESTAURANT.,"MURAPOLA JUNCTION,SINHARAJA ROAD,DENIYAYA.",Matara,,B,,,,,,,official_tourism,Restaurants.xlsx,gammanaya eco tourism restaurant
+RES000397,GRAND BEIJING SEAFOOD CHINESE RESTAURANT,"NO.62 A,DHARMAPALA MAWATHA,COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,grand beijing seafood chinese restaurant
+RES000398,GRAND LAKE HOTEL,"NO.04, LOYIDS AVENUE,BATTICALOA.",Batticaloa,,B,,,,,,,official_tourism,Restaurants.xlsx,grand lake hotel
+RES000399,SRI SIAM AUTHENTIC THAI RESTAURANT,"68,W.A SILVA MAWATHA, WELLAWATTE,COLOMBO 06",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,sri siam authentic thai restaurant
+RES000400,10 10 KRUA THAI,"NO.446,PANNIPITIYA ROAD, PELAWATTA.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,10 10 krua thai
+RES000401,THE CLUB,"NO.3B2, SHOPPING COMPLEX, GREENS ROAD, NEGOMBO.",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,the club
+RES000402,CAFE FRANCAIS BY POURCEL,"NO.48, GROUND FLOOR, PARK STREET, COLOMBO 02.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,cafe francais by pourcel
+RES000403,PEDLARS INN CAFE,"NO.92,PEDLARS STREET,FORT,GALLE.",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,pedlars inn cafe
+RES000404,SILK ROAD CHINESE RESTAURANT,"NO.7A, SIR EARNEST DE SILVA MAWATHA, COLOMBO 07.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,silk road chinese restaurant
+RES000405,CLEMENTS,"NO.21,STATION ROAD,WATTALA.",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,clements
+RES000406,RED ORCHIDS,"NO.35,CASTLE LANE,COLOMBO 04",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,red orchids
+RES000407,PANACEA RESTAURANT,"NO.179/5,HIGH LEVEL ROAD,PANNIPITIYA",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,panacea restaurant
+RES000408,MONTE ZITA RESTAURANT,"39A,HORTON PLACE, COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,monte zita restaurant
+RES000409,SEOUL,"NO.28/1,HORTON PLACE,COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,seoul
+RES000410,ANARGAYA RESTAURENT,"BATADUWA,BATAPOLA",Galle,,B,,,,,,,official_tourism,Restaurants.xlsx,anargaya restaurent
+RES000411,GOLDEN RIVER HOLIDAY RESORT,"GORAKAGAHA JUNCTION,BORALLA ROAD,WENNAPPUWA.",Puttalam,,B,,,,,,,official_tourism,Restaurants.xlsx,golden river holiday resort
+RES000412,XIANG YUN CHINESE RESTAURANT,"NO:935,PERADENIYA ROAD,KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,xiang yun chinese restaurant
+RES000413,OFF THE HOOK,"NO:180,PARK ROAD,COLOMBO 05",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,off the hook
+RES000414,ENJOLA RESTAURANT,"ALUGOLLA ROOD, KATUKENDA, BADALGAMA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,enjola restaurant
+RES000415,DIO JEY RESTAURENT,"NO.145/1A, GIRIDARA, KAPUGODA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,dio jey restaurent
+RES000416,WAAHALKADA RESTAURANT,"NO:322,KANDY ROAD,AMBEPUSSA,WARAKAPOLA",Kegalle,,B,,,,,,,official_tourism,Restaurants.xlsx,waahalkada restaurant
+RES000417,MISS SUGAR,"NO:246,LEWIS PLACE,NEGOMBO,SRILANKA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,miss sugar
+RES000418,GARTONS ARK RESTAURANT,"09/47, 06TH LANE, PAGODA ROAD, NUGEGODA.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,gartons ark restaurant
+RES000419,TURF RESTAURANT,"NO. 08, GRAND STAND RACE COURSE, REID AVENUE, COLOMBO 07",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,turf restaurant
+RES000420,SHANDONG THE CHINESE KITCHEN,"NO. 1092, SRI JAYAWARDENAPURA MAWATHA, WELIKADA, RAJAGIRIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,shandong the chinese kitchen
+RES000421,BERLIN SKY LOUNGE,"NO. 101/11, HUNUPITIYA LAKE ROAD, COLOMBO 02",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,berlin sky lounge
+RES000422,THE TUNA AND THE CRAB,"GF 01-OLD DUTCH HOSPITAL,GALEE FORT, GALLE",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,the tuna and the crab
+RES000423,KANDY KITCHEN,"NO 483,WILLIAM GOPALLAWA MAWATHA,KANDY",Kandy,,A,,,,,,,official_tourism,Restaurants.xlsx,kandy kitchen
+RES000424,PST RESTAURANT,"NO 48/A, PARK STREET,COLOMBO 02",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,pst restaurant
+RES000425,CHAPTER ONE,"931C,KOTTE ROAD,KOTTE",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,chapter one
+RES000426,SUDARSHAN RESTAURANT,"NO 08,FRANKFORT PLACE,COLOMBO 04.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sudarshan restaurant
+RES000427,ROYAL SIGIRIYA RESTAURANT,"POTHANA KIBISSA, SIGIRIYA",Matale,,B,,,,,,,official_tourism,Restaurants.xlsx,royal sigiriya restaurant
+RES000428,HERITAGE RESTAURANT,"NO 13O, CENTRAL GARDEN LAND, MADAWALA ULPATHA.",Matale,,A,,,,,,,official_tourism,Restaurants.xlsx,heritage restaurant
+RES000429,NALLUR BHAVAN,"250, TEMPLE ROAD, NALLUR, JAFFNA",Jaffna,,B,,,,,,,official_tourism,Restaurants.xlsx,nallur bhavan
+RES000430,MATHURA MADRAS WOODLANDS,"16, MELBOURNE AVENUE, COLOMBO 04",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,mathura madras woodlands
+RES000431,THE RE-PUB.LK,"57, HOSPITAL STREET, COLOMBO 01.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,the re pub lk
+RES000432,BLUE SAPPHIRE RESTAURANT,"NO:156/158, HAPUTHALE ROAD, WELLAWAYA",Moneragala,,B,,,,,,,official_tourism,Restaurants.xlsx,blue sapphire restaurant
+RES000433,SUGAR,"G05, OLD DUTCH HOSPITAL, FORT, GALLE",Galle,,B,,,,,,,official_tourism,Restaurants.xlsx,sugar
+RES000434,TONG NI ROAST MEAT RESTAURANT,"NO.59, WALUKARAMA ROAD, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,tong ni roast meat restaurant
+RES000435,THE MANHATTAN FISH MARKET,"997/1,SRI JAYAWARDANAPURA ROAD,RAJAGIRIYA.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,the manhattan fish market
+RES000436,BARRACUDA SEA FOOD & GRILL,"41/2AWASALA ROAD,DEHIWALA",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,barracuda sea food grill
+RES000437,VOC CAFE,"DUTCH BURGHER UNION, NO 114, REID AVENUE, COLOMBO 04",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,voc cafe
+RES000438,SKY BOLLYWOOD LOUNGE,"NO-9,STATION ROAD,COLOMBO-04",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sky bollywood lounge
+RES000439,LAVINIA RESTAURANT & HOTEL,"NO 43, BEACH ROAD, MT. LAVINIA",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,lavinia restaurant hotel
+RES000440,LOBBY BISTRO PLATINUM 1,"NO:1, BAGATALLE ROAD, COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,lobby bistro platinum 1
+RES000441,DOMINANT RAJAGIRIYA,"RECEPTION HALL, WELIKADA, RAJAGIRIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,dominant rajagiriya
+RES000442,OSTERIA ROMANA INDURUWA,"MUDIYANSE RALAHAMY'S ESTATE, YALEGAMA, INDURUWA",Galle,,A,,,,,,,official_tourism,Restaurants.xlsx,osteria romana induruwa
+RES000443,KUURAKU JAPANESE RESTAURANT,"48B, PARK STREET, COLOMBO02",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,kuuraku japanese restaurant
+RES000444,MAKYE AME RESTAURANT,"NO 4 1/1, VAJIRA ROAD, COLOMBO 04",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,makye ame restaurant
+RES000445,MOMO,"NO.11, NEGOMBO ROAD, WATTALA",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,momo
+RES000446,THE REGENT COUNTRY CLUB,"5/1,21ST LANE, ISURUPURA,MALABE",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,the regent country club
+RES000447,CANTEN CHINESE RESTAURANT,"NO.21SOMADAVI PL, KIRULAPONE AV COLOMBO 05",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,canten chinese restaurant
+RES000448,COCKPIT COLOMBO,"NO 7, 07A, 07/1B, FIFE ROAD, COLOMBO 04",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,cockpit colombo
+RES000449,CEYLON TEA FACTORY RESTAURANT,"NO 05, WATHTHIRIYAWA WATTA, PASSARA ROAD, ELLA",Badulla,,A,,,,,,,official_tourism,Restaurants.xlsx,ceylon tea factory restaurant
+RES000450,HOTEL INDOORA,"PUTTALAM ROAD, THITTAWELLA, KURUNAGALA",Kurunegala,,A,,,,,,,official_tourism,Restaurants.xlsx,hotel indoora
+RES000451,DINE INN REATAURANT,"NO 47, W. A SILVA MAWATHA, COLOMBO 06",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,dine inn reataurant
+RES000452,THE SIZZLE,"29/1,STATION ROAD,DEHIWALA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,the sizzle
+RES000453,FILL FAMILY RESTAURANT,"NO 83, COLOMBO ROAD, KANDANA",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,fill family restaurant
+RES000454,SUSHI BAR SAMURAI,"226 1/1 SRI JAYAWARDANA PURA MW, RAJAGIRIYA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,sushi bar samurai
+RES000455,H.BROTHER'S BROASTED CHICKEN,"NO- 163 DEANS ROAD, COLOMBO-10",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,h brother s broasted chicken
+RES000456,GOLDEN SPOON SPICES,"27E, HOSPITAL ROAD, DEHIWELA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,golden spoon spices
+RES000457,FREE TRADE ZONE LIANA,"BOI SPORT COMPLEX,AWERIWATTA,KATUNAYAKE",Gampaha,,B,,,,,,,official_tourism,Restaurants.xlsx,free trade zone liana
+RES000458,SILK LOUNGE AND RESTAURANT,"41-,3/1,MAITLAND CRESCENT,COLOMBO 7",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,silk lounge and restaurant
+RES000459,LAK LAGUNA RESTAURANT,"78 MAIN ROAD,KALPITIYA,",Puttalam,,B,,,,,,,official_tourism,Restaurants.xlsx,lak laguna restaurant
+RES000460,THE EXCHANGE RESTAURANT,"NO. 39/4/1,CANAL RAW,COLOMBO 01.",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,the exchange restaurant
+RES000461,K.D.K.RESTAURANT,"KOMBAVIL,W.N.4,PUTHUKUDIYUPPU,MULAITIVU",Mullaitivu,,B,,,,,,,official_tourism,Restaurants.xlsx,k d k restaurant
+RES000462,FAT PANDA,"31A,SEA AVENUE,COLOMBO 03",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,fat panda
+RES000463,BLUE GINGER RESTAURANT,"356,CHILAW ROAD,PERIYAMULLA,NEGOMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,blue ginger restaurant
+RES000464,LIKOORI,"NO 25/1/2,STATION ROAD,BAMBALAPITIYA",Colombo,,B,,,,,,,official_tourism,Restaurants.xlsx,likoori
+RES000465,GREEN VILLA FAMILY RESTAURANT,"NO 737/7 , THALANGAMA NORTH , MALABE.",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,green villa family restaurant
+RES000466,HE PING RESTAURANT,"440,GALLE ROAD,RATHMALANA",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,he ping restaurant
+RES000467,MONSOON COLOMBO,"MONSSON COLOMBO,PARK STREET MEWS, PARK STREET,COLOMBO 2",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,monsoon colombo
+RES000468,SHAN CITY CHINEESE RESTAURANT,"27/3/1,,KOTUGODELLA VEEDIYA,,KANDY.",Kandy,,B,,,,,,,official_tourism,Restaurants.xlsx,shan city chineese restaurant
+RES000469,CHINESE DELIGHT RESTAURANT,"41-A,RIDGEWAY PLACE, MARINE DRIVE,COLOMBO 04",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,chinese delight restaurant
+RES000470,SAMEEHA FAMILY RESTAURANT,"NO. 390,CHILAW ROAD, PERIYAMULLA,NEGOMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,sameeha family restaurant
+RES000471,SEA PORT RESTAURANT,"70,PORUTHOTA ROAD,ETHUKALA,NEGOMBO",Gampaha,,A,,,,,,,official_tourism,Restaurants.xlsx,sea port restaurant
+RES000472,AMUSEUM,"9TH FLOOR, GREEN LANKA BUILDING,NAWAM MAWATHA,COLOMBO 02",Colombo,,A,,,,,,,official_tourism,Restaurants.xlsx,amuseum
