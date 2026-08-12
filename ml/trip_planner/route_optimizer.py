@@ -197,7 +197,7 @@ if __name__ == "__main__":
 
     itinerary = pd.read_csv(
         PROCESSED_DIR
-        / "waxn_test_itinerary.csv"
+        / "waxn_test_itinerary_v2.csv"
     )
 
     optimized = optimize_trip(
