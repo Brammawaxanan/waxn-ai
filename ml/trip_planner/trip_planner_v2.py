@@ -77,6 +77,8 @@ def plan_trip_v2(
     relaxation=0.5,
     family=0.5,
     shopping=0.5,
+    request=None,
+    avoid=None,
 ):
 
     preferences = {
@@ -89,6 +91,10 @@ def plan_trip_v2(
         "family": family,
         "shopping": shopping,
     }
+
+    if request:
+        preferences["request"] = request
+        preferences["avoid"] = avoid
 
     attractions = recommend_attractions(
         district=district,

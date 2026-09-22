@@ -10,5 +10,7 @@ pyogrio==0.13.0
 pyproj==3.7.2
 python-dateutil==2.9.0.post0
 RapidFuzz==3.14.5
+joblib>=1.4,<2
+scikit-learn>=1.5,<2
 shapely==2.1.2
 six==1.17.0

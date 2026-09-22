@@ -22,6 +22,19 @@ FEATURE_COLUMNS = [
 ]
 
 
+_hybrid_model = None
+
+
+def _get_hybrid_model():
+    """Load the larger semantic artifact only when a semantic request is made."""
+    global _hybrid_model
+    if _hybrid_model is None:
+        from ml.recommendation.hybrid_recommender import HybridRecommender
+
+        _hybrid_model = HybridRecommender()
+    return _hybrid_model
+
+
 # ============================================================
 # LOAD DATA ONCE
 # ============================================================
@@ -67,7 +80,29 @@ def recommend_places(
     shopping=0.5,
     categories=None,
     top_n=10,
+    request=None,
+    avoid=None,
 ):
+
+    if request:
+        preferences = {
+            "nature": nature,
+            "adventure": adventure,
+            "history": history,
+            "photography": photography,
+            "food": food,
+            "relaxation": relaxation,
+            "family": family,
+            "shopping": shopping,
+        }
+        return _get_hybrid_model().recommend(
+            request,
+            district=district,
+            categories=categories,
+            avoid=avoid,
+            preferences=preferences,
+            top_n=top_n,
+        )
 
     data = places.copy()
 
