@@ -1,0 +1,181 @@
+[
+  {
+    "day": 1,
+    "stops": [
+      {
+        "name": "Lipton's seat",
+        "type": "attraction",
+        "latitude": 6.7806643,
+        "longitude": 81.0155075
+      },
+      {
+        "name": "temple",
+        "type": "attraction",
+        "latitude": 6.7718077,
+        "longitude": 80.9343211
+      },
+      {
+        "name": "Spice Trail",
+        "type": "food",
+        "latitude": 6.7707945,
+        "longitude": 80.9621337
+      },
+      {
+        "name": "Dambatenne Tea Factory",
+        "type": "attraction",
+        "latitude": 6.78336345,
+        "longitude": 81.00332282501563
+      },
+      {
+        "name": "Mountain Face Inn",
+        "type": "hotel",
+        "latitude": 6.862212700000001,
+        "longitude": 81.03777654486187
+      }
+    ],
+    "distance_km": 34.33,
+    "duration_minutes": 58.8,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          81.0155075,
+          6.7806643
+        ],
+        [
+          80.9343211,
+          6.7718077
+        ],
+        [
+          80.9621337,
+          6.7707945
+        ],
+        [
+          81.00332282501563,
+          6.78336345
+        ],
+        [
+          81.03777654486187,
+          6.862212700000001
+        ]
+      ]
+    },
+    "routing_source": "haversine_fallback"
+  },
+  {
+    "day": 2,
+    "stops": [
+      {
+        "name": "Badulla Museum",
+        "type": "attraction",
+        "latitude": 6.9841404,
+        "longitude": 81.0622983
+      },
+      {
+        "name": "Narangala Mountain Viewpoint",
+        "type": "attraction",
+        "latitude": 7.0369557,
+        "longitude": 81.0086238
+      },
+      {
+        "name": "Madulsima",
+        "type": "food",
+        "latitude": 6.9888315,
+        "longitude": 81.0590689
+      },
+      {
+        "name": "Mountain Face Inn",
+        "type": "hotel",
+        "latitude": 6.862212700000001,
+        "longitude": 81.03777654486187
+      }
+    ],
+    "distance_km": 39.44,
+    "duration_minutes": 67.6,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          81.0622983,
+          6.9841404
+        ],
+        [
+          81.0086238,
+          7.0369557
+        ],
+        [
+          81.0590689,
+          6.9888315
+        ],
+        [
+          81.03777654486187,
+          6.862212700000001
+        ]
+      ]
+    },
+    "routing_source": "haversine_fallback"
+  },
+  {
+    "day": 3,
+    "stops": [
+      {
+        "name": "Ravana Falls",
+        "type": "attraction",
+        "latitude": 6.8411694,
+        "longitude": 81.0550963
+      },
+      {
+        "name": "viewpoint rock",
+        "type": "attraction",
+        "latitude": 6.8591283,
+        "longitude": 81.0499207
+      },
+      {
+        "name": "River Face restaurant - Ella",
+        "type": "food",
+        "latitude": 6.8591002,
+        "longitude": 81.0433039
+      },
+      {
+        "name": "Ella Spice Garden",
+        "type": "attraction",
+        "latitude": 6.8740364,
+        "longitude": 81.0494507
+      },
+      {
+        "name": "Mountain Face Inn",
+        "type": "hotel",
+        "latitude": 6.862212700000001,
+        "longitude": 81.03777654486187
+      }
+    ],
+    "distance_km": 8.38,
+    "duration_minutes": 14.4,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          81.0550963,
+          6.8411694
+        ],
+        [
+          81.0499207,
+          6.8591283
+        ],
+        [
+          81.0433039,
+          6.8591002
+        ],
+        [
+          81.0494507,
+          6.8740364
+        ],
+        [
+          81.03777654486187,
+          6.862212700000001
+        ]
+      ]
+    },
+    "routing_source": "haversine_fallback"
+  }
+]

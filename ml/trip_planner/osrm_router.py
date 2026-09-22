@@ -1,5 +1,6 @@
 from pathlib import Path
 import json
+from math import atan2, cos, radians, sin, sqrt
 import requests
 import pandas as pd
 
@@ -9,6 +10,92 @@ BASE_DIR = Path(__file__).resolve().parents[2]
 PROCESSED_DIR = BASE_DIR / "data" / "processed"
 
 OSRM_BASE_URL = "https://router.project-osrm.org"
+FALLBACK_ROAD_DISTANCE_MULTIPLIER = 1.3
+FALLBACK_AVERAGE_SPEED_KMPH = 35
+
+
+def haversine_distance(
+    point_a,
+    point_b
+):
+    radius_km = 6371.0
+
+    lat1 = radians(point_a["latitude"])
+    lon1 = radians(point_a["longitude"])
+    lat2 = radians(point_b["latitude"])
+    lon2 = radians(point_b["longitude"])
+
+    dlat = lat2 - lat1
+    dlon = lon2 - lon1
+
+    a = (
+        sin(dlat / 2) ** 2
+        +
+        cos(lat1)
+        *
+        cos(lat2)
+        *
+        sin(dlon / 2) ** 2
+    )
+
+    c = 2 * atan2(
+        sqrt(a),
+        sqrt(1 - a)
+    )
+
+    return radius_km * c
+
+
+def build_fallback_route(points):
+    distance_km = 0
+
+    for index in range(
+        1,
+        len(points)
+    ):
+
+        distance_km += haversine_distance(
+            points[index - 1],
+            points[index]
+        )
+
+    distance_km *= FALLBACK_ROAD_DISTANCE_MULTIPLIER
+
+    duration_minutes = (
+        distance_km
+        /
+        FALLBACK_AVERAGE_SPEED_KMPH
+        *
+        60
+    )
+
+    return {
+        "distance_km":
+            round(
+                distance_km,
+                2
+            ),
+
+        "duration_minutes":
+            round(
+                duration_minutes,
+                1
+            ),
+
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    point["longitude"],
+                    point["latitude"]
+                ]
+                for point in points
+            ]
+        },
+
+        "routing_source":
+            "haversine_fallback"
+    }
 
 
 def get_osrm_route(points):
@@ -33,19 +120,49 @@ def get_osrm_route(points):
         "steps": "true"
     }
 
-    response = requests.get(
-        url,
-        params=params,
-        timeout=30
-    )
+    try:
 
-    response.raise_for_status()
+        response = requests.get(
+            url,
+            params=params,
+            timeout=30
+        )
 
-    data = response.json()
+        response.raise_for_status()
+
+        data = response.json()
+
+    except requests.RequestException as error:
+
+        print(
+            "OSRM request failed; using fallback route:",
+            type(error).__name__
+        )
+
+        return build_fallback_route(
+            points
+        )
+
+    except ValueError as error:
+
+        print(
+            "OSRM response was not valid JSON; using fallback route:",
+            type(error).__name__
+        )
+
+        return build_fallback_route(
+            points
+        )
 
     if data.get("code") != "Ok":
-        raise ValueError(
-            f"OSRM error: {data}"
+
+        print(
+            "OSRM returned error; using fallback route:",
+            data.get("code")
+        )
+
+        return build_fallback_route(
+            points
         )
 
     route = data["routes"][0]
@@ -64,7 +181,10 @@ def get_osrm_route(points):
             ),
 
         "geometry":
-            route["geometry"]
+            route["geometry"],
+
+        "routing_source":
+            "osrm"
     }
 
 
@@ -130,7 +250,10 @@ def build_daily_osrm_routes(itinerary):
                 route["duration_minutes"],
 
             "geometry":
-                route["geometry"]
+                route["geometry"],
+
+            "routing_source":
+                route["routing_source"]
         })
 
     return results
@@ -140,7 +263,7 @@ if __name__ == "__main__":
 
     itinerary = pd.read_csv(
         PROCESSED_DIR
-        / "waxn_optimized_itinerary.csv"
+        / "waxn_constrained_itinerary.csv"
     )
 
     routes = build_daily_osrm_routes(
@@ -169,6 +292,11 @@ if __name__ == "__main__":
             "minutes"
         )
 
+        print(
+            "Routing source:",
+            route["routing_source"]
+        )
+
         print("Stops:")
 
         for stop in route["stops"]:
@@ -180,7 +308,7 @@ if __name__ == "__main__":
 
     output = (
         PROCESSED_DIR
-        / "waxn_osrm_routes.json"
+        / "waxn_final_routes.json"
     )
 
     with open(

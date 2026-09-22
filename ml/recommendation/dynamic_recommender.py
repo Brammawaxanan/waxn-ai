@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 BASE_DIR = Path(__file__).resolve().parents[2]
 PROCESSED_DIR = BASE_DIR / "data" / "processed"
 
-DATA_PATH = PROCESSED_DIR / "waxn_recommendation_candidates.csv"
+DATA_PATH = PROCESSED_DIR / "waxn_final_candidates.csv"
 
 
 FEATURE_COLUMNS = [

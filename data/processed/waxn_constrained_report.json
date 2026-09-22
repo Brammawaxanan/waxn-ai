@@ -1,0 +1,23 @@
+[
+  {
+    "day": 1,
+    "distance_km": 62.98,
+    "duration_minutes": 93.4,
+    "within_distance_limit": true,
+    "within_time_limit": true
+  },
+  {
+    "day": 2,
+    "distance_km": 59.11,
+    "duration_minutes": 135.1,
+    "within_distance_limit": true,
+    "within_time_limit": true
+  },
+  {
+    "day": 3,
+    "distance_km": 54.73,
+    "duration_minutes": 77.4,
+    "within_distance_limit": true,
+    "within_time_limit": true
+  }
+]
